@@ -1,0 +1,5468 @@
+All India Council for Technical Education
+Approval Process Handbook
+2024-25 to 2026-27
+Nelson Mandela Marg, New Delhi-110070
+All India Council for Technical Education Act, 1987 \(52 of 1987\
+All India Council for Technical Education \(Mandatory Accreditation of all Programmes/
+Courses in Technical Education Institution and University Departments and Institutio\ns
+Deemed to be Universities imparting Technical Education\
+All India Council for Technical Education \(Grant of Approval for conducting Vocational
+Education Programme, Community College Course\(s\rovider
+All India Council for Technical Education \(Norms and Standards for the Conduct of Post
+All India Council for Technical Education \(Categorisation of Standalone Institutions \(SIs\
+All India Council for Technical Education \(Grant of Approvals for Technical Institutions\
+All India Council for Technical Education \(Open and Distance Learning Education
+This Handbook is a Legal Document as per
+Regulations, 2020
+All India Council for Technical Education \(AICTE\was established in 1945 as a National Level Apex Advisory
+Body and as a Statutory body by an Act of Parliament in 1987 for developing and promoting quality technical
+We, at AICTE, are committed to promote holistic, qualitative, inclusive and accessible education in the country
+a crucial component of Education in line with  NEP 2020 and has introduced  Universal Human Values as
+the country lies in the hands of our institutions and future generations, who have a bigger role to play in the
+Technical education is a pillar in the educational ecosystem, geared towards imparting technical learning
+same, AICTE is endeavoring to build a transparent and hasslefree technical education ecosystem by ensuring
+As envisaged in the provisions laid down in National Education Policy \(NEP\and the Nations
+proactive initiatives towards enhancement of GER, the Council decided to remove the upper limit on
+intake  sought by the institution, the council shall ascertain the infrastructure and faculty availability through
+The Approval Process Handbook of AICTE acts like a roadmap for  all institutions seeking approval from
+To make this handbook more accessible, AICTE posted the draft of the handbook in the public domain
+feedbacks/suggestions received from various stakeholders and on rigorous deliberations with experts drawn from
+academia and industry, the council proposed various amendments to the approval granting process,
+ensuring that the handbook has all the important information, transparent guidelines, minimum procedures
+FOREWORD
+intake allowed
+earlier
+APH:
+General Degree Colleges \(Non-Technical Institutions\under the umbrella of
+Vocational courses\use of existing infrastructure facilities and human
+\223One Nation One Student ID
+Card\224 \(APAAR ID Card /ABC ID\
+The Approval Process Handbook 2024-27 has been created with a progressive approach which
+placements, faculty development programs to student exchange programs, integrating skills in
+higher education institutions to introducing courses in emerging areas, AICTE is committed to
+AICTE shall continue to strive to be a true mentor, facilitator and enabler in bringing out the best
+Prof. T. G. Sitharam
+their value in making India Atma Nirbhar and a technical hub across the \globe
+Chairman, AICTE
+achieve this goal, our education sector must evolve to meet the changing needs of students in fast\226paced,
+As per AICTE\222s new handbook, a streamlined approval process has been created with less complexity
+Process Handbook was put out in the public domain to seek feedback from diverse audience to encourage
+capacity, lesser document requirements for land and building, initiating approval process through a single
+More importantly, as we approach the dawn of a new era, it becomes increasingly imperative to realise the
+can continue to produce a steady stream of innovators and entrepreneurs \who can drive technological
+Dr. Abhay Jere
+Message from Vice Chairman Desk
+Vice Chairman, AICTE
+\223All efforts have been made to simplify the system to a larger extent and a process has been developed which
+Teachers, who are the central point of education, are being trained with a newer technologies through ATAL
+Prof. Rajive Kumar
+Member Secretary, AICTE
+Message from Member Secretary Desk
+Particulars
+Page
+Preamble
+Chapter-I  Grant of Approval for New Institution
+Chapter-II  Grant of Extension of Approval for Existing Institutions
+Chapter-III  Collaboration & Twinning Programmes
+Chapter-IV  Grant of Approval for Universities
+Chapter-V  Approval for Open and Distance Learning \(ODL\O\L\
+Chapter-VI  Standard Norms and Requirements
+Chapter-VII  Penal Action on Violation of Norms
+Chapter-VIII  DOS and DON\222TS
+INDEX
+Foreword
+Abbreviations
+viii
+Annexures
+All India Council for Technical Education
+APAAR
+Automated Permanent Academic
+ATAL
+AICTE Training and Learning Academy
+ATMA
+Schools \(AIMS\est for Management
+Approval Process Handbook
+Catering Technology
+Built Operate and Transfer
+Bachelor of Technology
+Bachelor of Vocation
+Common Admission Test
+Closed Circuit Television
+CMAT
+Common Management Admission Test
+Central Public Works Department
+Detailed Project Report
+Directorate of Technical Education
+Diploma of Vocation
+Economically Weaker Section
+GATE
+Graduate Aptitude Test in Engineering
+GMAT
+Graduate Management Aptitude Test
+GPAT
+Graduate Pharmacy Aptitude Test
+Global Positioning System
+Technology
+Venture Development
+Indian Institute of Technology
+Learning Management System
+Letter of Approval
+Letter of Intent
+Letter of Rejection
+Left Wing Extremism
+Management Aptitude Test
+Catering Technology
+Master of Technology
+ABBREVIATIONS
+Abbreviations
+Access and Circulation Area
+AICTE
+Association of Indian Universities
+Account Registry
+Association of Indian Management
+Admission
+ARIIA
+Atal Ranking of Institutions on
+Innovation Achievements
+Bachelor of Computer Application
+Batchelor of Business Administration
+Batchelor of Business Studies
+Batchelor of Management Studies
+Bachelor of Design
+Bachelor of Engineering
+Bachelor of Hotel Management and
+Board of Governors
+Board of Management
+Bachelor of Science
+CABE
+Central Advisory Board of Education
+CBSE
+Central Board of Secondary Education
+CCTV
+CPWD
+DELNET
+Developing Library Network
+Delhi Development Authority
+Directorate of Medical Education
+Diploma of Skill
+Executive Committee of AICTE
+Extension of Approval
+Enterprise Resource Planning
+Expert Visit Committee
+Abbreviations
+Government of India
+Higher Educational Institute
+HMCT
+Hotel Management and Catering
+ICCR
+Indian Council for Cultural Relations
+Innovation, Entrepreneurship and
+Indian Knowledge System
+Internet of Things
+Indian Institute of Management
+IISc
+Indian Institute of Science
+Liquid Crystal Display
+Master of Business Administration
+Mbps
+Megabits per Second
+Master of Computer Application
+Master of Design
+Master of Engineering
+Master of Hotel Management and
+Master of Management Studies
+Memorandum of Association
+MODROBS
+Obsolescence Scheme
+Ministry of Education
+MOOCs
+Massive Open Online Courses
+Memorandum of Understanding
+Master of Pharmacy
+Master of Technology
+NAAC
+NATA
+National Aptitude Test in Architecture
+NATS
+National Apprenticeship Training
+National Education Policy
+NEAT
+Technology
+Programme
+National Institute of Technology
+National Institute of Technical Teachers
+Training and Research
+NMAT
+National Management Aptitude Test
+National Programme on Technology
+Enhanced Learning
+NSDA
+National Testing Agency
+Personal Computer
+Post Graduate
+Post Graduate Diploma in Business
+Post Graduate Diploma in Computer
+Post Graduate Diploma in Management
+Pradhan Mantri Kaushal Vikas Yojana
+Pradhan Mantri Uchchatar Shiksha
+Protsahan Yojana
+Public Private Partnership
+Persons with Benchmark Disabilities
+Research Promotion Schemes
+SAGY
+Saansad Adarsh Gram Yojana
+SAMVAY
+Skills Assessment Matrix for Vocational
+Advancement of Youth
+Skill Knowledge Providers/ Trainers
+SWAYAM
+Study Webs of Active-Learning for Young
+SWAYAM
+Study Webs of Active-Learning for Young
+Tax Deduction at Source
+Terminal Emulation Programme for
+TCP/ IP Networks
+Technical Education Regulatory
+Universal Human Values
+Union Territory
+Xavier\222s Aptitude Test
+Abbreviations
+Master of Pharmacy
+National Assessment and Accreditation
+Council
+National Academic Depository
+National Academic Depository
+Scheme
+National Board of Accreditation
+National Building Code
+NBCC
+National Buildings Construction
+Corporation
+National Digital Library of India
+National Education Alliance for
+NEQIP
+North East Quality Improvement
+National Institutional Ranking
+NITTTR
+NPTEL
+Non Resident Indian
+National Skill Development Agency
+PGCM
+Management
+PGDBM
+Management
+PGDCA
+Application
+PGDM
+Abbreviations
+PGRC
+Public Grievance Redressal Cell
+Doctor of Philosophy
+PMKVY
+PM-USPY
+PwBD
+Quacquarelli Symonds
+Research and Development
+Reserve Bank of India
+Regional Committee
+Standing Appellate Committee
+SCSC
+Standing Complaint Scrutiny Committee
+Security Deposit
+Sustainable Energy Engineering
+Standing Hearing Committee
+Singapore India Hackathon
+Aspiring Minds
+PRABHA
+Aspiring Minds DTH Channels
+TELNET
+THE Rank
+Times Higher Education Ranking
+Urban Agglomeration
+Under Graduate
+University Grants Commission
+Process Handbook
+viii
+Annexure 9
+of the Approval
+DEFINITIONS
+Engineering and Technology, excluding supernumerary seats, if any;
+A batch of a maximum of Sixty \(60\Degree Courses in
+Hotel Management and Catering Technology/ Post Graduate Courses in Computer Applications and
+ManagementProgramme, excluding supernumerary seats, if any;
+Programme, excluding supernumerary seats, if any;
+and Crafts Programme, excluding supernumerary seats, if any;
+Programme, excluding supernumerary seats, if any;
+Technology/ Planning/ Applied Arts and Crafts/ Hotel Management and Catering Technology Programme,
+A batch of a maximum of Sixty \(60\seats in Integrated Degree Courses in Engineering and
+Technology/ Hotel Management and Catering Technology/ MCA Programme and Integrated Degree
+Course in MBA Programme, excluding supernumerary seats, if any;
+ed by AICTE for the conduct of Technical Programme\(s\Course\(s\to an Institution for more than one
+University, the Principal/Director/such other designation as the Administrative Head of the Institution of the
+\225
+\225
+\225
+Computer Applications or Management excluding supernumerary seats, if an\y;
+\225
+\225
+\225
+\225
+excluding supernumerary seats, if any;
+\225
+supernumerary seats, if any;
+\225
+\225
+excluding supernumerary seats, if any; and
+\225
+Post Graduate Degree Programmes
+overcoming separation of teacher and learner using a variety of media, i\ncluding print, electronic, MOOCs,
+online and occasional interactive face-to-face meetings arranged by an Institution through Learner Support
+separation of teacher and learner using a variety of media, including print ,electronic, MOOCs in a totally
+time being in force in a State or a Public Trust or a Company registered under Section 8 of the Companies
+Architecture and Planning, Applied Arts and Crafts, Design, Hotel Management and Catering Technology,
+Approval Process Handbook for the Total Approved Intake and the Institutions may conduct the Courses in
+but are imparting education by means of conducting regular Courses leading to Diploma/Post Diploma
+Online mode
+Engineering and Technology, Pharmacy, Architecture and Planning, Applied Arts, Crafts and Design, Hotel
+Management and Catering Technology, Computer Applications, Management, and such other Programmes
+Technical Education Act, 1987 \(52 of 1987\shall have the same meaning as assigned to them in the said
+All India Council for Technical Education \(AICTE\, 1945 with a view to stimulate, coordinate
+AICTE Act, 1987 was passed by the Parliament with a view to ensure proper planning and coordinated development
+of the Technical Education System throughout the Country, qualitative improvement of such Education in relation to
+the planned quantitative growth and the Regulation and proper maintenance of norms and standards in the Technical
+Education, Research & Training in Engineering & Technology, Architecture, Town Planning, Management, Pharmacy,
+and Applied Arts & Crafts and such other programmes or areas as the Central government may in consultation with
+Important Provisions of AICTE Act, 1987 in Approval Process
+Evolve suitable performance appraisal system for Technical Institutions and Universities imparting Technical
+Lay down norms and standards for Course Curriculum, Physical and Instructional facilities, Staff patterns, Staff
+Grant approval for starting new Technical Institutions and for Introduction of new Courses or Programmes in
+teaching, examination and research, the Council may cause an inspection of any Department or Departments
+of such Technical Institution or University to be made in such manner as may be prescribed and by such person
+The Council shall communicate to the Technical Institution or University the date on which any inspection
+under sub-section \(1\be made and the Technical Institution or University shall be entitled to be associated with the
+of any such inspection and may after ascertaining the opinion of that Technical Institution or University the
+All communications to a Technical Institution or University under this Section shall be made to the executive
+authority thereof, and the executive authority of the Technical Institution or University shall report to the Council the
+action, if any, which is proposed to be taken for the purposes of implementing any such recommendations as
+It has been and shall always be the endeavor of AICTE to bring the best educational system for\ its students taking
+All the activities of AICTE are focused towards the changes as proposed in the NEP 2020 since last four years by means
+of various initiatives such as preparation of \221Short & Medium Term\222 Perspective Plans for Engineering Education in India
+AICTE is receptive to the technological changes happening across the glo\bal scenario and believes in framing new
+PREAMBLE
+Grant of Approval for setting up a \223New Technical Institution\224 offering a Technical Education Programme\(s\in
+CHAPTER-I
+Grant of Approval for New Institution
+1.2       Timeline
+AICTE
+Graduate Diploma/ Post Graduate Degree are given in
+Table 1.1 \226 Technical Education Regulatory \(TER\Per Year\
+Clause 1.3.2
+Sl.No.
+Rs. in Lakh
+refunded under
+Clause 1.5.2
+Table 1.2 \226 Required Fund position for New Technical Institute
+Programme proposed \(Diploma/ Post
+Diploma/ Under Graduate Degree/ Post
+Graduate Diploma/ Post Graduate Degree\
+Total minimum funds required as
+of the Trust/ Society/ Company \(RS.
+The Applicant shall also not use the word\(s\India/ Indian/ National/ All India/ All
+India Council/ Commission in the name of the Technical Institution giving an interpretation that it is
+mentioned in the
+proof of Operational Expenses at
+the time of Scrutiny in the Name
+Planning
+Applied Arts and Crafts
+Design
+Computer Applications
+Table1. 3 : Intake, number of Courses & Division allowed for different program & at diffe\rent levels
+Post Graduate
+Programme
+Levels
+Diploma
+Under Graduate
+Division
+Courses
+Division
+Division
+Courses
+Division
+Division
+Courses
+Division
+Engineering and
+Applied Arts and
+Crafts
+Design
+& Catering
+Computer
+Applications
+Planning ##
+Table 1.3
+Annexure-11
+as per process shown in
+Annexure-7
+\echnical Institution as per the
+Annexure-3 & 4
+Annexure-1
+Annexure-1
+Chapter VI
+of the
+NOTE:
+Clause 1.8 & 1.9
+Clause 1.11
+as per
+Clause 1.12
+Applicants for starting new Technical Institutions other than Government/ Government aided Institutions
+Clause 1.3.3
+Clause 1.5.2
+are recommended for starting new Technical
+Table 1.4 Security Deposit \(in Lakh\under Different Programme\(s\
+Sl.No.
+Graduate
+Planning
+Applied Arts and Crafts
+Design
+land.
+vkpk;kZr~ iknekn\331ks ikna f\224k\222;% Loes/k;k A
+ikna lcz\343pkfjH;% ikna dky\330es.k p AA
+Applicants for starting new Technical Institutions other than Government/ Government aided Institutions
+Clause 1.3.3
+Clause 1.5.2
+are recommended for starting new Technical
+Table 1.4 Security Deposit \(in Lakh\under Different Programme\(s\
+Programme\(s\s\
+Sl.No.
+Graduate
+Planning
+Applied Arts and Crafts
+Design
+land.
+CHAPTER-II
+Table 2.1. Technical Education Regulatory \(TER\Charges
+Programme
+Per Division
+All Programmes
+Allowed\224/ Introduction of Integrated/Dual Dgree
+Institution
+EoA/
+Restoration
+Introduction
+Children of
+in the
+Gulf Countries
+Continuation
+in the
+Gulf Countries
+seats
+per Course
+Introduction of
+Courses
+Government/
+All other
+Institutions
+Institution
+Government
+/ Central
+All other
+Institutions
+NOTE
+Annexure-2
+of the
+All the submitted applications along with TER charges \(other than Extension of
+Approval\disclosure shall be processed as per the norms and procedures
+initiatives towards enhancement of  Gross  Enrolment   Ratio \(GER\proposes to remove the upper
+Engineering, Electronics and Communication Engineering, Electronics and Telecommunica tion
+Annexure -11
+conditions:
+Annexure-11
+Annexure-11
+NOTE:
+having approval under this
+Annexure- 2
+provisions mentioned in
+Clause \(2.6
+additional documents as per
+Clause 2.6
+\(owned or hired\for indoor and outdoor sports for the students either in the Campus or through
+of the Approval
+various Institutions, for information of candidates during all stages of\ admission so that the students can
+Annexure-2
+Countries admitted in AICTE approved Institutions through Indian Council for Cultural Relation \(ICCR\
+Annexure-2
+Annexure-3
+NOTE:
+schedule of conduct of Programs / Courses prior to admission
+of institution along with the additional documents as per
+NOTE:
+2.13.2   Merger of Institutions under the different Trust/ Society/ Company
+Annexure-2
+Annexure-11
+of the Approval Process
+Annexure-11
+NOTE:
+Annexure-2
+2.16.1 Restoration of Intake under Break in EoA
+Annexure-2
+Annexure-2
+documents as per
+Chapter II
+of the
+Annexure-2
+of the Approval Process
+Annexure 6
+Course\(s\is permitted as per the guidelines given in
+2.18
+of the Approval
+application, the Council shall proceed for further processing as per the provisions of Approval Process
+Annexure-2
+Chapter II/ III
+additional documents as per
+Annexure-2
+Chapter II/ III/ V
+of the
+Table 2.2- Processing Period for Different Types of Application
+Processing Period of
+Closure of Programme\(s\s\
+Introduction of Integrated/Dual Degree Course
+Application
+Closure of the Institution
+timeline
+2.23.1  Evaluation of the Application by the Scrutiny/ Re-Scrutiny Committee:
+Table-2.3 of Chapter-II\
+Table-2.3
+Table-2.3 Indicates the Different Steps Involved in the Processing of the Applications
+under different clauses mentioned in this chapter.
+this chapter are processed as follows:
+Chapter I Clause 1.
+Chapter I, Clause 1.9
+Chapter-II
+Institution shall have the right to appeal once as per
+Clause 2.24
+2.23.4
+able-2.3: Different Steps Involved in the Processing of the Applications
+and Twinning Programme
+Closure of Programme\(s\s\
+Self
+Disclosure
+Introduction/ Continuation of seats for Non
+Change in the Name of the Institution or
+Introduction/ Continuation of
+Introduction of Integrated/Dual Degree
+Course
+Closure of the Institution
+Clause 2.3.2
+of the
+Chapter VII
+Chapter I
+of the Approval
+A Twinning Programme is a programme offered through an agreement/
+CHAPTER-III
+\037\036\035\034 \033\032\031\030\027
+\036\026\025\024\023\034 \022\021
+\020\017\031\016 \027
+\r\f\013\031\016 \n
+\036\026
+\t \b\020\007\031
+\006\034 \005\036
+\036\004\032\031 \r\f
+\003 \002
+\035
+\035
+\035\026
+\027
+\035
+\021\035
+\013
+\016
+\013\r
+Clause-11
+CHAPTER-IV
+NOTE:
+Sl. No.
+to the applicant as per the
+Chapter I
+Annexure-1
+Annexure-2
+Applicant shall also not use the word\(s\Government, India, Indian, National, All India, All India
+of the Approval
+documents mentioned as per
+Chapter II
+III,
+the documents
+Clause 4.6
+of the Approval Process
+NOTE-
+Annexure-1
+Table 4.1
+Clause
+Chapter I
+Chapter II
+Chapter II
+Chapter I
+copies as per
+\(Table1.
+Clause 1.11
+Chapter-I
+of this
+NOTE:
+Annexure-8
+Chapter II/ III
+Chapter II/III
+Clause  4.5.2
+to AICTE and
+4.18
+revision of Curriculam in tune with the changing trends in the industrial development, perform\ing Academic
+to AICTE and
+NOTE:
+\031
+\003 \204\036\030
+\205\020
+\034, \016 \207\031\030
+\212\034
+\036\034
+\036\215\020\223
+\036\215\020
+\035\037\026
+\026\025\215
+\020\231
+\003\n\n
+4.21
+4.22
+4.23
+Chapter VII.
+\022
+\001
+\034
+\016
+\020
+\035
+\201
+\036\215\020\217\030
+\032\005
+\220\235\036
+\025\215
+\016
+\027
+\031
+\025\215
+\n \240\255\220\200
+\215
+\016
+\036\235\036
+\025\215
+\022\030
+\202
+\235
+\203
+\036
+\215
+\204
+\032
+\203\206
+\r\215
+\203
+\215\001
+\036
+\013
+\210\211\n
+\001
+\215
+\213
+\033
+\016
+\036\214
+\016
+\036\216\203 \221
+\025\215\025
+\222
+\215
+\036\n
+\215
+\204\036
+\r\205\032
+\036
+\026
+\030
+\036\224\225
+\215
+\036\n
+\215
+\036
+\032\024\032
+\226\220
+\224\037
+\027\033\016
+\221
+\203
+\017\023\224\037
+\027\227
+\215
+\230
+\212
+\036
+\001
+\036
+\232
+\001
+\031
+\030
+\036
+\032\r\224\037\226
+\034
+\225
+\233\220 \037\036\027
+\234
+\004
+\215\021\215
+NOTE 1:
+CHAPTER-V
+Otherwise NOC granted/issued earlier
+shall  be withdrawn.
+1. a.
+ODL Mode:
+Online Mode:
+S. No
+Associate Professor
+Assistant Professor
+5.3.3.
+Administrative staff strength at the Institution
+Assistant Registrar
+Assistants
+S.No.
+Assistant Professor \(Coordinator\
+Table 5.3 Minimum Infrastructure Requirements for ODL/Online
+NOTE:
+Learning Supporting Centre
+Learner Support
+Academic Area
+Administrative Area
+Room, Computer Centre, Informational and
+Amenities or other support facilities Area
+Distance
+Annexure-8
+is given in
+Tourism
+Diploma in Computer Application \(PGDCA\ost Graduate
+Programme
+Course
+Administration
+Computer
+Applications
+Applications
+Intelligence and
+Intelligence and
+Table 5.5 TER Charges for ODL/OL Courses
+Introduction of New Course /Increse in approve
+All Applications under \(i\whose applications for
+NOTE:
+Sl.No.
+Rs. in Lakh
+Rs. in Lakh
+of this Approval Process
+Clause 1.8
+Annexure-11
+Chapter-VI.
+\003
+\036\026\037\036
+\016 \215\020
+\036\026\037\036
+\003
+\n\n
+Clause 1.8 & 1.9
+Clause
+mentioned in
+Clause 8.3
+\001
+\036
+\032\017
+\036\037\036
+\027
+\036
+\215
+\001
+\036
+\027\232
+\001
+\036
+\027
+\036
+\215
+\001
+\036
+\032\017
+\036\037\036
+\027\232
+Annexure- 11
+Annexure-11
+Annexure-11
+of the Approval Process
+CHAPTER-VI
+under
+of the
+in the
+Annexure-11
+Table 1.3 \(Chapter 1\
+Annexure-8
+per the
+Annexure 5
+Clause 2.9
+Annexure-1
+Annexure-3
+of the
+Annexure-14
+Annexure-4
+of the Approval
+Annexure-6
+Annexure-4
+Annexure- 3
+in the
+Technical Institutions is given in the
+Annexure-17
+Annexure-15
+that the Institution\(s\
+owned/ hired facilities for indoor and outdoor sports for the students either in the Campus or
+Clause 7.11
+approval with those words shall change/ drop the word from the Name of the Institution, as the
+Clause 1.5.4
+through various mediums:
+\2233 \(i\including bullying and exclusion\at another
+student \(fresher or otherwise\on the ground of color, race, religion, caste, ethnicity, gender \(including
+transgender\sexual orientation, appearance, nationality, regional origins, linguistic, identity, place of
+birth, place of residence or economic background\224.
+complaints
+Committees:
+institution
+NOTE-1:
+\241\215\020\242
+\026\215
+\031 \002
+\227\r
+\236\220
+\032
+\237
+\027
+\036
+\022\033\236
+\027\b\025\215\032
+\203\243
+\032\215\036
+\232 \n
+\001
+\020
+\231
+\036
+\224\037
+\243
+\032
+\027
+\001
+\031
+\030
+\036
+\032
+\036
+\224\037\030
+\033
+\220\244
+\224\037
+\027\227
+CHAPTER-VII
+Institutions
+of the Approval Process
+measures:
+NOTE:
+right to appeal as per
+Clause 1.11/ Clause 2.23
+\030\245\031\241\246\031\241 \030
+\031\241
+\034
+\034
+\031 \n\n
+have the right to appeal as per
+Clause 1.11
+Clause 2.23
+Committee /
+\004
+\226\032\224\017
+\247
+\r\017
+\036
+\022\030\224\037\232
+\237\217\250\036\030
+\016
+\022
+\001
+\034
+\027
+\036
+\207
+\036\027
+\013\016
+\251
+\020\200
+\215
+New Technical Institution
+The Applicant shall present following supporting documents in original along with one copy, duly self- attested and
+other necessary information to the Scrutiny Committee. As per
+. The Institution should
+, on a Non-Judicial Stamp Paper/ e-stamp paper of  Rs. 100/-, duly sworn before a
+First Class Judicial Magistrate or Notary or an Oath Commissioner.
+Rs. 100/-, duly sworn before a First Class Judicial Magistrate or Notary or an Oath Commissioner,
+that the same shall be produced on completion of the Building.
+Authority.
+For Standalone PGDM Institutions, details of the recommended composition of the Board of
+In the case of a Company established under Section 8 of the Companies Act, 2013, the MoA and
+Documents to be submitted In case of an application made with a proposal\ of PPP/ BOT-Resolution
+of the Applicant Organization, pertaining to start a Technical Institution and allocation  of Land/
+Property Act, 1882 or any other Law for the time being in force relating to transfer of property to or
+ANNEXURE-1
+Documents to be uploaded/submitted / shown for Setting up a
+shall be made and duly authenticated by the authorized signatory of Appl\icant or by the Head of the Institution.
+Building Plan of the Institution
+upload/submit two copies of Building Plan.
+iii.
+Resolution of the Applicant Organization in
+of submission of application.
+That Joint
+Non-Judicial stamp/ e-stamp paper of Rs. 100/- duly sworn before a First Class Judicial Magistrate/Notary/Oath
+Commissioner.
+Title documents of the Lessor referring to its acquisition of leasehold rights through a lawful
+the proposed Institution at the permanent site with a table clearly mentioning all rooms, with carpet
+by the Architect registered with the Council of Architecture. Safety and hygiene precautions ensured
+produced.
+Documents to be submitted, in case of Private Lease of Land/ Building:
+Private Lease of Land
+iii.
+transaction
+form of a registered document.
+Private Lease of Building
+map showing location of the proposed site of the Institution.
+area of each in m
+Audited statement of accounts of the Applicant Organization for last three years\, as may be
+applicable.
+Faculty/ Staff etc. is required.
+The Applicant shall present following supporting documents in original a\long with one copy, duly attested by
+a First Class Judicial Magistrate or Notary or an Oath Commissioner and oth\er necessary information to the
+Faculty members.
+Drawing Hall, Computer Centre, Library, Reading Room, Seminar Hall and all other rooms, as
+mentioned in Programme wise Instructional area requirements, Internal portion of the principal\222s
+boys and girls common rooms, Cafeteria and all other rooms as mentioned in Amenities area
+requirements, circulation area details highlighting entrance lobby, passages, escalators, staircases
+toilets created for physically challenged and all weather motorable appr\oach roads.
+Institutions shall appoint Principal/ Director/ Teaching Staff strictly in accordance with the norms
+The information about these appointments of Staff in the prescribed Format shall be uploaded in
+In no circumstance, unless the appointment of all Faculty members and other Staff is in place, the
+Faculty and non-teaching Staff data shall be entered as per the prescribe\d Format.
+starting of a new Technical Institution in the same premises in the same year/ Change of Site/
+members and non-teaching Staff and Faculty: Student ratio.
+Status of existing Faculty and Staff in the Institution and liabilities thereon.
+Particulars of the Directors, Managers or Secretaries
+PAN number
+TAN number
+Companies General Rules and Forms
+NOC from Directors or Promoters
+1.3.3
+case of selection procedures and selection Committees.
+1.3.4
+1.3.5
+1.3.6
+Institutions, as applicable, duly signed by the Chairman/ Secretary in  \
+1.4.5
+Status of existing Students already studying in the Institution.
+1.4.6
+1.5.2
+Memorandum of Association and Article of Association
+1.5.5
+1.5.6
+1.5.7
+1.5.8
+1.5.9
+the Trust/ Society/ Company in case of Self-Financing Institutions or by the Authorized person in case of the
+with digital signature of the Chairman/ Secretary of the Trust/ Society/ Company on an
+e-stamp paper of Rs. 100/- duly sworn before a First Class Judicial Magistrate or Notary or an Oath
+Commissioner.
+Building License/ Form D issued by the Competent Authority.
+Location\
+starting of a new Technical Institution in the same premises in the same year/ Change of Site/Location/
+ANNEXURE-2
+of application and the departments are unable to submit the original doc\uments, a letter from the
+iii.
+As per
+longitude at the entrance of the main Building mentioned on it.
+applicable, duly signed by the Chairman/ Secretary in
+Same / Different Trust/ Society/ Company operating in the same Campus, as applicable, duly signed by the
+on a Non-Judicial Stamp Paper/e-stamp paper of Rs. 100/- duly sworn before a First Class
+Introduction of Fellow Program in Management.
+with clear mention about the
+members and non-teaching Staff and Faculty: Student ratio.
+same campus
+Chairman/ Secretary in
+Details regarding hostel facilities and hostel administration.
+Chairman/ Secretary in
+signed by the Chairman/ Secretary in
+Institution.
+to be submitted by the Applicant on a Non-Judicial Stamp Paper/e-stamp paper of Rs.
+100/- duly sworn before a First-Class Judicial Magistrate or Notary or an Oath Commissioner stating
+that the Applicant has no liability with respect to Faculty members, Staff, students etc.
+on a Non-Judicial Stamp Paper/e-stamp paper of Rs.100/- , duly sworn before a First
+Institution.
+Chairman/ Secretary in
+signed by the Chairman/ Secretary in
+by the Chairman/ Secretary in
+documents
+Institution/ duly signed by the Chairman/ Secretary in
+of the Chairperson/Secretary of the Trust/ Society/ Company stating the
+the Name/Address of the Trust/ Society/Company or merger of Trusts/Societies/Companies.
+of the Chairman/ Secretary of the Trust/ Society/ Company stating that there is
+of the APH.
+transferee Trust/ Society/Company.
+Company, mentioning the reasons for such Change in the Name duly signed by the Chairman/
+documents
+A notarized
+signed by the Chairperson/ Secretary in
+A notarized
+no commercial or business angle for such change.
+Secretary in
+Country.
+to be offered under Collaboration and Twinning Programme.
+Programme in the Institution duly signed by the Chairman/ Secretary in
+Documents/Information to be submitted for Off-Campus are as per Annexure-1.
+Country as per
+for this purpose.
+for this purpose.
+purpose.
+Norms for Land and Built-up Area Requirements of the
+Technical Institutions
+For the Land area requirements, the following conditions need to be adhered:
+The total Built-up area is to be calculated for the entire duration of the Course with mandatory prior
+The remaining Land shall only be utilized for sporting Infrastructure/ Hostel/ Staff ac\commodation
+ANNEXURE-3
+adhered to.
+NOTE:
+facilities to conduct such Programmes without sharing the essential facilities, such as Class Room,
+Post Graduate Programme/Courses in Computer Application/Management.
+be shared.
+Particulars
+Minimum Number of Rooms
+Carpet Area in Sq. mper Room
+year x Total Duration of course
+Laboratory for Post Graduate
+1 Research Laboratory
+for \223X\224 Category Courses
+of land is acceptable.
+3.2.1 Ins\tructional Area
+required
+Class Rooms
+in years x 0.5
+Courses
+1per Course
+CAD Centre/Drawing Hall#$
+year x Total Duration of course
+Post Graduate Studio
+Research Laboratory*
+Language Laboratory#
+Computer Centre
+Seminar Hall
+pro rata basis for the said Courses shall be created.
+greater than 1200.
+Class Rooms
+in years x 0.5
+Resource Centre
+Art Court
+Multi-Purpose Hall
+Computer Centre
+Seminar Hall
+1 per Diploma Institution
+Class Rooms
+1 per specialization
+Studio/Display Room
+Craft Centre
+Computer Centre
+Theatre/Seminar Hall
+Tutorial Rooms**
+Photography Laboratory
+Computer Laboratory
+Laboratory
+year x Total Duration of course
+Tutorial Rooms**
+Laboratory/ Guest Room for Post
+Graduate Programme
+Language Laboratory
+Tutorial Rooms
+Computer Laboratory*
+Language Laboratory
+Tutorial Rooms
+Language Laboratory
+Class Rooms/Studio
+Seminar Hall
+Class Rooms
+in years x 0.5
+1 per Specialization
+Restaurant
+Computer Centre
+Seminar Hall
+Class Rooms
+Computer Centre
+Seminar Hall
+Class Rooms
+Computer Centre
+Seminar Hall
+It is desirable that an institution shall possess carpet area of 1.1 Sq. m per student to be utilized for
+* Applicable only for Post Graduate Courses
+** Not Applicable for Post Graduate Courses.
+$ Not applicable for DMLT.
+requirements of Post Graduate Curriculum.
+system etc.
+room. In addition to the same, it is also desired that Institutions shall possess additional amenities area
+than 300 i.e. 0-300:20 Computers, 301-600:40 Computers, 601-900:60 Compu\ters etc.
+Internet Connection, etc.
+Post Graduate
+Post Graduate
+Post Graduate
+Post Graduate
+Technology
+Post Graduate
+Post Graduate
+Institution shall possess adequate number of Systems Software and Application software including
+At least one printer to be A1 Size Color Printer/ Plotter s required for the programme- Planning.
+ANNEXURE-4
+Programme
+Level
+Number of PCs/ Laptop to
+Diploma
+1:10
+1:10
+Planning
+Applied Arts and Crafts
+Diploma
+Design
+Hotel Management and Catering
+Diploma
+Computer Application
+1:10
+Management
+1:10
+300: 100Mbps, 301-600: 300Mbps, 601-900: 500Mbps, > 900: 1Gbpa.
+meant for PCs to students\222 ratio.
+Total
+Volumes
+Reading Room
+% of Total
+Technology/ Applied
+Technology
+50* Per Course from
+Technology
+50*Per year from
+Technology
+Technology/
+Technology
+50 Per Course
+Programme
+Number of
+Divisions
+Titles
+Seating Capacity
+Students
+Number
+Arts and Crafts/
+Hotel Management
+and Catering
+5xNo.of Titles x B
+5xNo.of Titles x B
+5xNo.of Titles x B
+50* per Course from
+5xNo.of Titles x B
+Computer
+Application
+5xNo.of Titles x B
+Planning
+100#
+5xNo.of Titles x B
+5xNo.of Titles x B
+Applied Arts and
+Crafts/ Design
+100#
+5xNo.of Titles x B
+5xNo.of Titles x B
+Hotel Management
+and Catering
+100#
+5xNo.of Titles x B
+5xNo.of Titles x B
+Planning/ Applied
+Arts and Crafts/
+Design/Hotel
+Management and
+Catering
+4xNo.of Titles x B
+MCA/ PGDM/ MBA
+100#
+5xNo.of Titles x B
+5xNo.of Titles x B
+required for that Programme.
+Facilities to access the Online Courses is essential.
+Total Number of Courses
+Journals indexed by Scopus/
+Web of Science/ Medline
+Technology Planning/ Applied
+Catering Technology
+Technology/Planning/Applied
+Technology/
+State / Group of Institutes in a \223Consortium\224.
+requirements of the Curriculum and Syllabus.
+Reprographic center  including scanning facility  in the Library is esse\ntial.
+Library automation software including Bar coding is desirable.
+members and students to secure membership.  Aggregators may also be used\.
+Programme
+Arts and Crafts/ Design/ Hotel
+Management and
+Arts and Crafts/ Design Hotel
+Management and
+Catering
+Management/Computer
+Applications
+6x N
+Norms for Faculty Requirements and Cadre Ratio of the
+Technical Institutions
+Intake
+Total
+Technology/
+Technology
+Intake
+Total
+Technology
+Technology
+ANNEXURE-5
+Programme
+Faculty:Student
+based on
+Approve
+Principal/
+Director
+Head of the
+Department
+Faculty
+D = A+B+C
+Applied Arts
+and Crafts
+Design/ Hotel
+Management
+and Catering
+1:25
+1 per
+Department
+S/25
+Programme
+Faculty:
+Student
+Ratio
+based on
+Approved
+Principal/
+Director
+Professor
+Associate
+Professor
+Assistant
+Professor
+A+B+C+D
+1:20
+Planning
+1:16
+Applied Arts and
+Crafts
+1:15
+Design
+1:15
+Hotel
+Management
+Catering
+1:20
+Computer
+Applications
+1:25
+Management
+1:25
+20xR
+20xR
+20xR
+16xR
+15xR
+15xR
+20xR
+25xR
+25xR
+16xR
+15xR
+15xR
+20xR
+25xR
+25xR
+16xR
+15xR
+15xR
+20xR
+25xR
+25xR
+Intake
+Total
+Technology*
+Technology*
+Sanctioned Intake
+Programme
+Faculty:
+Student
+based on
+Approved
+Principal/
+Director
+Professor
+Associate
+Professor
+Assistant
+Professor
+A+B+C+D
+1:15
+Planning
+1:10
+Applied Arts
+and Crafts
+1:15
+Design
+1:15
+Hotel
+Management
+and Catering
+1:12
+Computer
+Application
+1:20
+Management
+MBA/ PGDM
+1:20
+during last 3
+academic years.
+Average
+admissions
+during last three
+academic years
+Duration of
+course in
+years
+Faculty
+required
+as per
+norms
+Faculty required as
+recommendations
+two years.
+15xR
+15xR
+15xR
+10xR
+10xR
+10xR
+15xR
+15xR
+15xR
+15xR
+15xR
+15xR
+12xR
+12xR
+12xR
+20xR
+20xR
+20xR
+20xR
+20xR
+20xR
+by the
+PGDM Institutions shall publish the information regarding the name of th\e Common Admission test, from
+website and admission Brochure well before the admission process initiated and inform the Applicants through
+merit only.
+Curriculum. To introduce any new Course, the nomenclature and Syllabus of the same shall be submitted to
+ANNEXURE-6
+Norms for PGDM/PGCM Courses
+Minority Institutions.
+following components and their weights:
+by the
+PGDM Institutions shall publish the information regarding the name of th\e Common Admission test, from
+website and admission Brochure well before the admission process initiated and inform the Applicants through
+merit only.
+Curriculum. To introduce any new Course, the nomenclature and Syllabus of the same shall be submitted to
+Minority Institutions.
+following components and their weights:
+of the
+Institutions.
+PGDM Institutions shall publish the Fee being charged in its web site and admission Brochure well before the
+PGDM Institutions shall follow norms and standards and conditions prescribed by the Council from time to
+The rules with respect to matters relating to examinations and arbitration shall be decided by the All India
+to this effect shall be submitted
+Standalone institutions offering PGDM/PGCM courses under the same Trust/Society but located at different
+cities/states shall be permitted for consolidation. The students could be admitted through a centralised
+prescribed by the council. The main campus of such institutions which are intending fo\r consolidation shall fall
+6.13
+6.14
+time.
+6.16
+6.20
+of Chapter II.
+Institution Issue of LoA/ LoR
+ANNEXURE-7
+Sr. No
+11th Std. /1st yr.
+Passed 11th std.
+2nd yr. of
+Third yr. of
+1st yr. of PG
+M Tech/ PG Degree
+Ph.D/ Fellow
+Program
+CGPA/ PG
+ANNEXURE-8
+Academic Level
+NCrF Level
+10th Std.
+10th Standard
+of Diploma
+10th Completed
+A candidate exits with
+12th Std.
+12th Standard
+Diploma
+passed 12th std.
+A candidate exits with
+Diploma
+Degree
+Degree
+A candidate with Diploma in
+Degree
+Degree
+Degree
+A candidate with 3 yrs. Bachelor
+Degree
+Degree
+Degree
+1 year of PG Degree/ PG Diploma/
+domain
+For Diploma students who exit after 1
+Technology
+Passed 10th Std./ SSC examination
+Passed 10th Std./ SSC examination
+Passed 10th Std./ SSC examination
+Technology
+Passed 10th Std./ SSC examination
+All Programmes
+Information Technology/ Biology/ Informatics
+Practices/
+Technology.
+Technology
+Passed Diploma
+Course structure at 3
+year Industrial
+may be offered.
+Sl. No.
+Programme
+Duration
+Eligibility
+NCrF Level
+3 -years
+Applied Arts and
+Crafts
+Design
+3 years
+Hotel Management
+and Catering
+3 years
+5 years
+2 years
+etc., for the
+of the
+Sl. No.
+Programme
+Duration
+Eligibility
+18 Months or 2 years
+in the qualifying examination.
+Technology
+Technology/ Biology/ Informatics Practices/
+Sl. No.
+Programme
+Duration
+Eligibility
+NCrF Level
+4 years
+outcomes of the
+Planning
+4 years
+Applied Arts
+and Crafts
+4 years
+Design
+4 years
+Graduate
+Courses in
+Computer
+Application
+3/4 years
+Graduate
+Courses in
+Management
+3/4 years
+Technology
+and Technology
+sector.
+Refer Annexure-8
+and Technology
+and Technology
+Final year\
+All Programmes
+Technology/
+La t e r al
+Hotel
+Management
+and Catering
+4 years
+3 years
+2 years
+1 year
+Other than
+Planning/
+Design
+Second
+year
+Techwnology
+Technology
+Passed Bachelor Degree in Planning/ Architecture/
+Passed Bachelor Degree of minimum 4 years
+Technology
+Passed Bachelor Degree in Hotel Management
+and Catering Technology/ Hotel Management of
+Misc/2020 dated 09.08.2021]
+Sl. No.
+Programme
+Duration
+Eligibility
+NCrF Level
+2 years
+the qualifying examination.
+1 year
+the qualifying examination.
+Planning
+2 years
+Applied
+Artsand
+Crafts
+2 years
+Degree.
+the qualifying examination.
+Design
+2 years
+duration.
+the qualifying examination.
+Hotel
+Management
+and Catering
+2 years
+the qualifying examination.
+Computer
+Application
+2 years
+the qualifying examination.
+compulsory bridge course will be framed by the
+Passed Bachelor Degree of minimum 3 years
+Passed Bachelor\222s Degree of minimum 3 years
+Passed any Bachelors Degree of minimum 3 years
+Passed any Bachelors Degree of minimum 3 years
+Computer
+Application
+1 year
+Management
+2 years
+duration.
+the qualifying examination.
+Management
+Management
+1 year
+duration.
+the qualifying examination.
+Management
+2 years*
+duration.
+the qualifying examination.
+18 months
+the qualifying examination.
+Sr. No.
+Phy, Chem, Maths
+Phy, Chem
+For remaining two courses select any courses
+Phy, Chem
+Phy, Chem, Maths
+Phy, Chem, Maths
+Phy, Maths
+For remaining single course select any courses
+Phy, Chem, Maths
+Phy, Chem, Maths
+Phy, Maths
+For remaining single course select any courses
+Phy, Chem, Maths
+Phy, Maths
+For remaining single course select any courses
+Phy, Chem, Maths
+Fire and Safety
+Phy, Chem, Maths
+For remaining two courses select any courses
+Leathe
+Technology
+For remaining two courses select any courses
+Phy, Chem, Maths
+Phy, Chem, Maths
+Phy, Chem, Maths
+Phy, Chem, Maths
+Nano Technology
+Phy, Chem, Maths
+and Technology
+Phy, Chem, Maths
+Technology
+Major
+Disciplines
+Mandatory Courses
+at 10+2 Level
+discipline
+Aeronautical
+Agriculture
+Agriculture stream
+Maths/Biology/Biotechnology/Agriculture/
+Agriculture stream
+Architecture
+Planning
+Maths
+out of 14#
+Biotechnology**
+Select any one from Bio/Biotechnology/Maths
+Ceramic
+Computer
+Science and
+out of 14#
+Chemical
+Dairy
+out of 14#
+out of 14#
+Mechanical
+Chem
+out of 14#
+Chem
+out of 14#
+Marine
+Metallurgy
+Military
+Mining
+Nuclear Science
+Select any courses out of 14#
+Phy, Chem
+Printing
+Phy, Chem
+For remaining single course select any courses
+Textile
+Phy, Chem,
+Fashion
+Technology
+Textile Chemistry
+For remaining two courses select any courses
+Technology
+Technology
+Pharmaceutical
+Select any one from Bio/Biotechnology/Maths
+out of 14#
+Maths
+Select any courses out of 14#
+Chem
+out of 14#
+Programme
+Duration
+Eligibility
+5 years
+as per table 8.4
+entry are exhausted.
+Planning
+5 years
+Hotel
+Management
+and Catering
+5 years
+Computer
+Application
+4 years
+Management
+4 years
+Fellow Programme in
+streams, remaining seats in those streams shall be allotted to students \from third-stream.
+In case of Integrated Hotel Management and Catering Technology, selection of the students for this
+Course shall be done at the start of the Second year of Bachelor\222s Degree. Students selected for this
+Sl. No.
+Programme
+Duration
+Eligibility
+Management
+Minimum 3 years but shall
+not exceed 5 years
+Same as mentioned in 15.1 of
+The admission for Integrated/Dual Degree Course in Management shall be e\ffected on the basis
+Std.as,
+Science stream: 20 seats
+Commerce stream: 20 seats
+iii.
+Arts Stream: 20 seats
+ODL/OL mode.
+course offered through ODL/OL mode.
+Passed 10th Std./ SSC examination.
+Post Diploma
+Passed Diploma examination
+admission policy.
+A pass in diploma in Commercial Practice or
+Post Graduate
+Passed Bachelor\222s
+Passed BCA/ Bachelor
+Passed B.Sc./ B.Com./ B.A. with Mathematics at
+Post Graduate
+Passed Bachelor\222s
+Post Graduate
+Passed Bachelor\222s
+Post Graduate
+Passed any Bachelors
+Passed Bachelor\222s
+Sl. No.
+Level
+Duration
+Eligibility
+Diploma
+3 OR 4 years
+18 Months OR 2
+years
+Courses in Computer
+Application
+3/4 years
+Diploma in
+Computer Application
+2 years
+Degree of minimum 3 years duration.
+2 years
+Courses in
+3/4 years
+More than 1 year
+and not exceeding
+2 years
+Degree of minimum 3 years duration.
+Diploma in
+Management
+Not less than 21
+Months
+Degree of minimum 3 years duration.
+Diploma in
+Management
+15/ 18 Months
+Degree of minimum 3 years duration and a
+minimum of 5 years
+2 years
+Degree of minimum 3 years duration.
+Institute/incubation unit\222s competency and capability to manage and support a batch of 30 student
+In additions to the procedures mentioned in the
+ANNEXURE-9
+programme can be offered by higher educational institutions. This is an \action oriented and outcome based
+requirements as mentioned in
+registered entity and minimum three years of operation.
+entrepreneurs.
+and if required,
+ANNEXURE-10
+Date:
+Agricultural Technology
+Technology
+Apparel Design and Fabric
+Apparel Design and Fabrication
+Technology
+Apparel Design and Fashion
+Technology
+Apparel Technology
+Machine Learning
+Carpet Technology
+Cement Technology
+Technology
+Ceramic Technology
+Technology\
+Polymer\
+Technology\
+Specialization in Petrochemicals
+Plastic Technology\
+Chemical Technology Fertilizer
+Chemical Technology
+Technology\
+Technology\
+Pollution Control\
+and Pollution Control\
+Pollution Control
+Technology
+Technology
+Communication Technology
+Practice
+Commercial Practice
+Technology
+Computer Science and Technology
+ANNEXURE-11
+Course Name
+3-D Animation and Graphics
+Animation and Multimedia
+Apparel Manufacture and Design
+Audiography and Sound
+Automation and Robotics
+Beauty Culture and Cosmetology
+Biotechnology
+CAD CAM
+Course Name
+CDDM
+Ceramics
+Cinematography
+Course Name
+Cloud Computing and Big Data
+Combat Radio and
+Commercial and Computer
+Communication and Computer
+Computer Aided Costume Design
+Computer Application and Business
+Management
+Computer Applications
+Application
+Computer Hardware and
+Maintenance
+Computer Hardware and
+Computer Science
+Computer Science and information
+Agricultural Technology
+Technology
+Apparel Design and Fabric
+Apparel Design and Fabrication
+Technology
+Apparel Design and Fashion
+Technology
+Apparel Technology
+Machine Learning
+Carpet Technology
+Cement Technology
+Technology
+Ceramic Technology
+Technology\
+Polymer\
+Technology\
+Specialization in Petrochemicals
+Plastic Technology\
+Chemical Technology Fertilizer
+Chemical Technology
+Technology\
+Technology\
+Pollution Control\
+and Pollution Control\
+Pollution Control
+Technology
+Technology
+Communication Technology
+Practice
+Commercial Practice
+Technology
+Computer Science and Technology
+Computer Software Technology
+Computer Technology
+Construction Technology and
+Construction Technology
+Cyber Forensics and information
+Course Name
+3-D Animation and Graphics
+Animation and Multimedia
+Apparel Manufacture and Design
+Audiography and Sound
+Automation and Robotics
+Beauty Culture and Cosmetology
+Biotechnology
+CAD CAM
+CDDM
+Course Name
+Ceramics
+Cinematography
+Cloud Computing and Big Data
+Course Name
+Combat Radio and
+Commercial and Computer
+Communication and Computer
+Computer Aided Costume Design
+Computer Application and Business
+Management
+Computer Applications
+Application
+Computer Hardware and
+Maintenance
+Computer Hardware and
+Computer Science
+Computer Science and information
+Construction Automation
+Management
+Control and instrumentation
+Cosmetology and Health
+Costumer Design and Dress
+Security
+Cyber Physical Systems and
+Security
+Cyber System and Information
+Security
+Design and Drafting Technology
+Digital Manufacturing Technologies
+Technology
+Fabrication Technology
+Fabrication Technology and
+Fashion and Apparel Design
+Fashion and Clothing Technology
+Fashion and Design
+Fashion Designing
+Fashion Designing and Garment
+Technology
+Fashion Technology
+Finance Account and Auditing
+Fire Technology and Safety
+Fisheries Technology
+Food Processing Technology
+Food Technology
+Footwear Technology
+Foundry Technology
+Garment and Fashion Technology
+Garment Fabrication
+Technology
+Garment Technology
+Handloom and Textile Technology
+Technology
+Industrial and Production
+Technology
+Technology
+Course Name
+Microprocessor
+Dress Designing and Garment
+Manufacturing
+Control
+Course Name
+Microprocessor
+Maintenance
+Course Name
+Gaming and Animation
+Garment Manufacturing
+Geographic information System
+System
+Geo informatics
+Home Science
+Hotel Management and Catering
+IC Manufacturing
+Information and Communication
+Information Science
+Information Science and
+Information Science and
+Design and Drafting Technology
+Digital Manufacturing Technologies
+Technology
+Fabrication Technology
+Fabrication Technology and
+Fashion and Apparel Design
+Fashion and Clothing Technology
+Fashion and Design
+Fashion Designing
+Fashion Designing and Garment
+Technology
+Fashion Technology
+Finance Account and Auditing
+Fire Technology and Safety
+Fisheries Technology
+Food Processing Technology
+Food Technology
+Footwear Technology
+Foundry Technology
+Garment and Fashion Technology
+Garment Fabrication
+Technology
+Garment Technology
+Handloom and Textile Technology
+Technology
+Industrial and Production
+Technology
+Technology
+Course Name
+Microprocessor
+Dress Designing and Garment
+Manufacturing
+Control
+Course Name
+Microprocessor
+Maintenance
+Course Name
+Gaming and Animation
+Garment Manufacturing
+Geographic information System
+System
+Geo informatics
+Home Science
+Hotel Management and Catering
+IC Manufacturing
+Information and Communication
+Information Science
+Information Science and
+Information Science and
+Information Technology and
+Information Technology
+Instrumentation and Process
+Instrumentation Technology
+Instrument Technology
+Fabrication
+Technology
+Leather and Fashion Technology
+Leather Goods and Footwear Tech
+Leather Technology Footwear
+Leather Technology
+Leather Technology Tanning
+Logistics Technology
+Machine Tools and Maintenance
+Machine Tools Technology
+Manufacturing Technology
+Tool Maintenance and Repairs\
+Medical Laboratory Technology
+Multimedia Technology
+Ophthalmic Technology
+Paint Technology
+Paper and Pulp Technology
+Paper Technology
+Petrochemical Technology
+Petroleum Technology
+Plastic and Mould Technology
+Plastic Mould Technology
+Plastic Technology
+Plastics Mould Technology
+Plastics Processing and Testing
+Plastics Technology
+Polymer Technology
+Post Plastic Process and Testing
+Precision Manufacturing
+Printing Technology
+Production and Industrial
+Robotic Process Automation
+Rubber Technology
+Transportation
+Course Name
+Instrumentation and Control
+Control
+Instruments and Medical
+Interior Decoration
+Interior Design
+Jewellery Design and Manufacture
+Computer Aided Shoe Design
+Library and information Science
+Mass Communication
+Material Management
+Mechanical CAD/CAM
+Course Name
+Automobile
+Aided Design/Computer Aided
+Manufacturing
+Refrigeration and Air Conditioning
+Metal
+Mechatronics
+Metallurgy
+Course Name
+Application
+Photography
+Construction Management
+Refrigeration and Air Conditioning
+Robotics and Mechatronics
+Management
+Smart Agritech
+Smart and Sustainable
+Fire Technology and Safety
+Food Technology
+Forge Technology
+Foundry Technology
+Information Technology
+Technology
+Plastic Mould Technology
+Plastic Technology
+Plastics Processing and Testing
+Polymer Science and Rubber
+Technology
+Post Plastic Mould Design
+Post Plastic Process and Testing
+Technology
+Rubber Technology
+Software Testing
+Textile Processing
+Tool Design
+Town Planning and
+Sugar Technology
+Surface Coating Technology
+Technician X-Ray Technology
+Telecommunication Technology
+Textile Chemistry
+Textile Design
+Textile Designing
+Textile Designing Printing
+Textile Manufactures
+Textile Manufacturing and
+Technology
+Textile Manufacturing Technology
+Textile Processing
+Textile Processing Technology
+Textile Technology
+Climate Technology
+Course Name
+Industrial Automation
+Conditioning
+Biotechnology Tissue Culture
+CAD/CAM
+Computer Aided Design and
+Manufacture
+Computer Aided Design
+Computer Applications
+Computer Hardware and
+Computer Hardware
+Course Name
+Instrumentation
+Geographic information System
+System
+Industrial Safety
+Industrial Safety and
+Plastic Mould Design
+Course Name
+Management
+Refrigeration and Air
+Conditioning
+Architecture
+Course Name
+Course Name
+Course Name
+Management
+Science
+Agricultural Technology
+Apparel and Production
+Machine Learning
+Technology
+Carpet and Textile Technology
+Cement and CeramicTechnology
+Technology
+Ceramic Technology
+Treatment\
+Polymer\
+Chemical Technology
+Technology\
+Pollution Control
+Learning\
+Chain Technology\
+information Technology
+Technology
+Computer Technology
+Construction Technology
+Construction Technology and
+Course Name
+3-D Animation and Graphics
+industrial Automation
+Aircraft Maintenance
+Airline Management
+Management
+Communications
+Architectural Assistantship
+Architecture and Interior
+Decoration
+Science
+Automation and Robotics
+Automobile Maintenance
+Bioinformatics
+Biomedical and Robotic
+Biomedical instrumentation
+Biotechnology
+Biotechnology and Biochemical
+Building and Construction
+Course Name
+Chemical and Biochemical
+Application
+Computer and Communication
+Application
+Computer Science and Applied
+Mathematics
+Computer Science and
+Biosciences
+Course Name
+Computer Science and Business
+Systems
+Computer Science and Design*
+Computer Science and
+Computer Science and
+Intelligence and Machine
+Computer Science and
+Computer Science and
+Computer Science and
+Computer Science and
+Computer Science and
+Computer Science and
+Computer Science and
+Systems
+Computer Science and
+Computer Science and Medical
+Computer Science and Social
+Sciences
+Computer Science and Systems
+Computer Science and
+Computing in Multimedia
+Computing in Software
+Construction Automation
+Management
+Management
+Cyber Physical Systems
+Dairy Technology
+Digital Techniques For Design and
+Dyestuff Technology
+Communication Technology\
+Technology\
+Technology
+Telecommunication
+Tele-Communication
+Design and Technology\
+Technology
+Fashion and Apparel
+Fashion Technology
+Fibres and Textiles Processing
+Technology
+Fire and Life Safety
+Fire Technology and Safety
+Technology
+Food Processing and
+Food Processing Technology
+Food Technology
+Food Technology and
+Footwear Technology
+Geospatial Technology and
+Handloom and Textile
+Technology
+Industrial and Production
+Industrial Production
+Technology
+Technology
+Information Technology
+Information Technology and
+Instrumentation Technology
+Instrument Technology
+Jute and Fibre Technology
+Leather Technology
+Man Made Fibre Technology
+Man-Made Textile Technology
+Course Name
+Planning
+Course Name
+Science
+Management
+Course Name
+Management
+Geo informatics
+Geoinformatics
+Industrial Biotechnology
+Management
+Industrial IoT
+Information and Communication
+Information Science and
+Information Science and
+Instrumentation and Control
+Management
+Technology
+Manufacturing Process and
+Manufacturing Technology
+Marine Technology
+Material Science and Technology
+Medical Lab Technology
+Technology
+Nano Science and Technology
+Nano Technology
+Nuclear Science and Technology
+Oil and Paint Technology
+Surfactants Technology
+Oil Technology
+Paint Technology
+Petrochem and Petroleum
+Petrochemical Technology
+Petroleum Technology
+Technology
+Pharmaceuticals and Fine
+Chemical Technology
+Plastic Technology
+Technology
+Polymer Science and Chemical
+Technology
+Polymer Science and Technology
+Polymer Technology
+Poultry Technology
+Precision Manufacturing
+Printing, Graphics and
+Printing Technology
+Production and industrial
+Pulp Technology
+Rubber and Plastics Technology
+Rubber Technology
+Surface Coating Technology
+Technical Textiles
+Textile Chemistry
+Textile Processing
+Textile Technology
+Climate Technology
+Course Name
+Manufacturing Science and
+Mechanical and Automation
+Mechanical and Mechatronics
+Mechanical and Smart
+Manufacturing
+Automobile
+Metallurgical and Materials
+Metallurgy
+Metallurgy and Material
+Course Name
+Oils, Oleochemicals and
+Optics and Optoelectronics
+Pharmaceutical Chemistry and
+Intelligence
+Robotics and Automation
+Course Name
+Smart Agritech
+Microgrid Technologies
+Construction Technology
+Lean Construction
+Technology
+Technology
+Precision Health
+Technology
+Organ Printing
+Technology
+Nutrition Technology
+Processing
+Machine Learning
+Sensors Technology
+Green Technology and
+Biosimilar Technology
+3D Printing
+Sensors Technology
+Aqua-food Technology
+Infrastructure
+Geotechnology
+Biotechnology
+Cellular Agriculture
+Mining and Mineral
+Computer Science and
+and Communication
+Computer Science and
+and Communication
+Cyber Security
+Data Science
+Reality
+Computer Science and
+Control Systems and
+Instrumentation and
+Smart Cities
+GIS and Remote Sensing
+Biology
+Science
+Computer Science and
+Robotics
+Communication
+Communication
+Instrumentation
+Biotechnology
+and Technology
+and Technology
+and Technology
+and Technology
+and Technology
+and Technology
+Technologies
+and Technology
+CementTechnology
+Food, Drug and Cosmetics
+Plastics Processing and Testing
+Sugar Technology
+Applicable to any
+Applicable to any
+Applicable to any
+Applicable to any
+Applicable to any
+Applicable to any
+Applicable to any
+programmes
+Course Name
+Computer Applications
+Course Name
+Technology
+Aero Space Technology
+Technology
+Apparel Technology
+Fitter\
+Automation and Control Power
+Automobile Technology
+Signal Processing
+Biomedical Signal Processing and
+Bioprocess Technology
+Building Construction Technology
+Technology
+Chemical Processing in Textiles
+Chemical Science and Technology
+Chemical Technology
+Technology
+Technology\
+and Pollution Control\
+Process
+Signal Processing
+Communication Technology and
+Course Name
+information System
+Manufacturing
+Mechanical Systems Design
+Agricultural Science and
+Air Armament
+Communication System
+Communications
+Applied instrumentation
+Applied Mechanics
+Science
+Atmospheric Science
+Automated Manufacturing Systems
+Automation
+Systems
+Automation and Robotics
+Course Name
+Biotechnology
+Bioinformatics
+Biomedical Instrumentation
+Biomedical Instrumentation and
+instrumentation
+Biometrics and Cyber Security
+Biotechnology
+Biotechnology and Biochemical
+CAD/CAM
+CAD/CAM Robotics
+Chemical and Biotechnology
+Course Name
+Cloud Computing
+Communication and Information
+Systems
+Communication and Signal
+Communication Control and
+Communication Systems
+Management
+Computational Analysis in
+Mechanical Science
+Computational Biology
+Computational Mechanics
+Computational Mechanics
+Computer Aided Analysis and
+Design
+Computer Aided Design
+Computer Aided Design and
+Computer Aided Manufacture
+Computer Aided Design and
+Manufacture
+Computer Aided Process Design
+Technology
+Technology
+Technology
+and Machine Learning\
+Information Technology
+Computer Systems and Technology
+Computer Technology
+Computer Technology and
+Processing
+Construction Technology
+Construction Technology and
+Cyber Forensics
+Cyber Forensics and information
+Dairy Technology
+Defence Technology #
+Design and Production
+Digital Image Processing
+Digital Signal Processing
+Digital Techniques  and
+Dyestuff Technology
+Course Name
+Computer Aided Design
+Manufacture and Automation
+Computer Aided Design
+Computer Aided Design of
+Structures
+Computer Aided Structural
+Analysis and Design
+Computer Aided Structural
+Computer and Communication
+Computer and Communication
+Computer and information
+Science
+Computer and Information
+Computer Applications
+Computer Applications in
+Computer Cognition and
+Application
+Computer Hardware and
+Computer integrated
+Manufacturing
+information Security
+Security
+Computer Science
+Computer Science  and
+Computer Science and
+Computer Science and
+Course Name
+Computer Science and
+Computer Science and
+Computer Science and
+Computer Science and
+Information Security
+Computer Science and
+Information System
+Computer Science and
+Computer Science and Systems
+Applications
+Computing in Computing
+Management
+Management
+Construction Management
+Construction Planning and
+Management
+Management
+Control and Instrument
+Control and Instrumentation
+Control Systems
+Course Name
+Security
+Cyber Security
+Cyber Security Systems and
+Course Name
+Data Sciences
+Design for Manufacturing
+Design of Mechanical Systems
+Digital Communication
+Digital Communication
+Digital Communications
+Digital Communications and
+Communication
+Communication Systems
+Digital Instrumentation
+Digital Systems
+Digital Systems and
+Digital Systems and Computer
+instrumentation
+Distributed and Mobile Computing
+Distributed Computing Systems
+Distributed Systems
+Drugs and Pharmaceuticals
+and Power\
+Technology\
+Technology\
+Communication Technology\
+Technology\
+Technology
+Technology
+Technology
+Farm Machinery
+Fashion Technology
+Food Biotechnology
+Food Plant Operations
+Food Processing Technology
+Food Supply Chain Management
+Food Technology
+Food Technology and
+Foundry and Forge Technology
+Fracture Mechanics
+Fuel and Combustion
+Future Studies and Planning
+Gas Turbine Technology
+Technology
+Course Name
+Systems
+Design
+Course Name
+Communication
+Automation
+Design
+Management
+Design
+Management
+Course Name
+Management
+Management
+Management
+Management
+Management
+Geo Informatics
+Geomachines and Structures
+Geomechanics and Structures
+Geotechnical and Geo
+Green Technology
+Heat and Power
+Heat Power and Thermal
+Highway Technology
+Illumination Technology and
+Image Processing
+Industrial and Production
+Industrial Automation and Robotics
+Industrial Pollution Control
+Industrial Power Control and
+Technology
+Technology
+Information Technology
+Information Technology
+Information Technology and
+Information Technology
+Technology
+Instrumentation Technology
+Integrated Circuits Technology
+Integrated Power Systems
+Turbo Machinery
+Laser Technology
+Leather Technology
+Man-Made Textile Technology
+Technology
+Manufacturing Process
+Manufacturing Process and
+Manufacturing Technology
+Manufacturing Technology and
+Marine Technology
+Technology
+Material Science and Technology
+Course Name
+Geo technology
+Guided Missiles
+Conditioning
+Hydraulics and Flood Control
+Design
+Industrial Automation and RF
+Industrial Biotechnology
+Industrial Catalysis
+Industrial Design
+Management
+Industrial Instrumentation and
+Control
+Industrial Intelligent Systems
+Industrial Mathematics
+Course Name
+Industrial Metallurgy
+Industrial Refrigeration and
+Cryogenics
+Industrial Safety
+Industrial Structures
+Information and Communication
+Information Science and
+Information Security
+Information Security Management
+Information Systems
+Management
+Infrastructure Management
+Instrumentation and Control
+Instrumentation and Control
+Management
+Intelligent Systems
+Internal Combustion and
+Automobiles
+Course Name
+Internet of Things
+IoT and Sensor Systems
+Irrigation and Drainage
+Management
+Machine Design
+Machine Design and Robotics
+Manufacturing and Automation
+Automation
+Management
+Manufacturing Science and
+Manufacturing Systems and
+Management
+Manufacturing Systems
+Automation
+Material Handling
+Material Science and Chemical
+Technology
+Production
+Mechanical-Product Life Cycle
+Technology
+Technology
+Mobile Computing Technology
+Mobile Technology
+Multimedia Technology
+Nano Science and Technology
+Nano Technology
+New Material Process and
+Technology
+Non-Sewered  Sanitation
+Nuclear Science and Technology
+Ocean Technology
+Oil Technology
+Surfactants Technology
+Optoelectronics and Laser
+Technology
+Paint Technology
+Parallel Distributed Systems
+Petrochemical Technology
+Petrochemicals
+Petroleum Technology
+Technology
+Pharmaceuticals and Fine
+Chemical Technology
+Plastics Processing and Testing
+Plastics Technology
+Polymer Nanotechnology
+Polymer Science and Technology
+Polymer Technology
+Course Name
+Measurement and Control
+Design, Manufacture and
+Mechanical and Automation
+Mechanical and Materials
+Automobile
+Mechanical System Design
+Mechanical-Manufacturing
+Management
+Mechatronics
+Metallurgical and Materials
+Metallurgy
+Metallurgy and Material
+Course Name
+Systems
+Communication
+Mobile Communication and
+Mobile Computing
+Modeling and Simulation
+Modern Communication
+Multimedia and Software
+Management
+Management
+Course Name
+Oils, Oleo chemicals and
+Optics and Optoelectronics
+Communication
+Communication Systems
+Communication
+Pharmaceutical Biotechnology
+Pharmaceutical Chemistry and
+Physical Metallurgy
+Plant Design
+Power System and Control
+Power System and Control
+Power System Control and
+Power Systems
+Power Systems and Automation
+Power Systems and Power
+Power Systems and Renewable
+Power Systems Control and
+Pre Stressed Concrete
+Technology
+Printing Technology
+Process Control
+Process Control instrumentation
+Process Dynamics and Control
+Process instrumentation
+Process Metallurgy
+Product Design
+Product Design and Commerce
+Product Design and Manufacturing
+Production and Industrial
+Production Design and
+Technology
+Production Management
+Production Technology
+Production Technology and
+Rubber Technology
+Rural Technology
+Sensor Technology
+Signal Processing
+Signal Processing and
+Soil Mechanics and Foundation
+Solar Power Systems
+Spatial  Information Technology
+Sports Technology
+Structural and Foundation
+Surface Coating Technology
+Systems and Signal Processing
+Technical Textile
+Technology Management
+Telematics
+Textile Chemistry
+Textile Processing
+Textile Processing Technology
+Textile Technology
+Course Name
+Systems
+Systems
+Automation
+Automation
+Communication
+Course Name
+Manufacturing
+Management
+Management
+Radar and Communication
+Refrigeration and Air Conditioning
+Remote Sensing
+Remote Sensing and GIS
+Robotics and Automation
+Robotics and Mechatronics
+Communications
+Systems
+Course Name
+Smart Sensing Communication
+Software Systems
+Soil Mechanics
+Structural and Construction
+Structural Design
+Structural Dynamics and
+Construction
+Construction Management
+System Management
+System Software
+Tool Design
+Town and Country Planning
+Transport Science and Technology
+Tribology and Maintenance
+Turbo Machinery
+Technology
+Technology
+Climate Technology
+Town and Country Planning
+Town Planning
+Transport Planning and
+Transportation Planning
+Course Name
+Systems
+Thermal Systems and Design
+Management
+Manufacturing
+Design
+Course Name
+Systems
+Management
+Hydroinformatics
+Course Name
+Communication
+Communications
+Computing
+Applications
+Course Name
+Planning
+Course Name
+City and Regional Planning and
+Management
+City Planning
+City Planning and Management
+Community Planning
+Management
+Housing
+Course Name
+Industrial Area Planning and
+Management
+Infrastructure Planning
+Infrastructure Planning and
+Management
+Planning
+Regional Planning
+Rural Planning and Management
+Course Name
+Management
+Apparel Design and FabricationTechnology
+Apparel Design and Fashion Technology
+Art for Drawing Teacher
+Costume Design and Garment Technology
+Craft Technology
+Fashion and Apparel Design
+Fashion Design and Garment Technology
+Fashion Designing
+Fashion Technology
+Fine Arts
+Garment Technology
+Textile Design
+Textile Designing
+Fine Arts
+Textile Designing
+AR and CR for Films
+Fashion and Apparel Design
+Film and Media
+Film Direction
+Fine Arts
+Gaming Technology
+Media Production Management
+Painting
+Product Design
+Textile Design
+Course Name
+Beauty and Hair Dressing
+Beauty Culture
+Beauty Culture and Cosmetology
+Commercial Art
+Cosmetology
+Course Name
+Home Science
+Interior Decoration
+Interior Design
+Course Name
+Course Name
+Accessory Design
+Animation
+Applied Arts
+Audiography
+Cinematography
+Commercial Art
+Digital Imaging
+Course Name
+Screen Acting
+Sound Recording and Sound Design
+Fashion Technology
+Film Studies
+Fine Arts
+Painting Mural
+Fashion Communication
+Fashion Design
+Textile Design
+Animation Film Design
+Fashion Design
+Industrial Arts and Design Practices
+Information Arts and Information Design Practice
+Product Design
+Textile Design
+Toy and Game Design
+Transportation and Mobility Design
+Course Name
+Applied Arts
+Direction
+Course Name
+Course Name
+Communication Design
+Design
+Industrial Design
+Interaction Design
+Course Name
+Interior Design
+Jewellery Design
+Life Style and Accessory Design
+Course Name
+Animation Design
+Apparel Design
+Business Design
+Ceramic and Glass Design
+Communication Design
+Design Computation
+Design Management
+Digital Game Design
+Digital Humanities
+Graphic Design
+Course Name
+Heritage Design
+Human Centered Design
+Information Design
+Interaction Design
+Lifestyle Accessory Design
+Media Arts
+New Media Design
+Photography Design
+Public Space Design
+Social Design
+Food Technology
+Hospitality and Tourism Administration
+Hotel Management and Catering Technology
+Hospitality and Tourism Administration
+Hotel Management and Catering Technology
+Hospitality and Tourism Administration
+Business and Corporate Law
+Cyber Law
+Course Name
+Hotel Management
+Course Name
+Culinary Arts
+Hotel Management
+Course Name
+Hotel Management
+Course Name
+BBA / BMS
+Course Name
+Course Name
+Course Name
+Agribusiness and Plantation Management
+Agribusiness Management
+Airport Management
+Analytics
+Apparels
+Big Data Analytics
+Biotechnology
+Business Administration
+Business Analytics
+Business Management
+Communications
+Consultancy Management
+Corporate Social Responsibility
+Dietetics
+Digital Media and Online Journalism
+Family Managed Business
+Fashion Technology
+Financial Administration
+Financial Management
+Fintech
+Food Processing and Business Management
+Foreign Trade
+Forestry Management
+Geo Spatial Technology Application in Rural
+Home Textiles
+Information Communication Technology in Securities
+Information Technology
+Information Technology and Systems Management
+International Trade Management
+Jute Technology and Management
+Logistics and Supply Chain Management
+Personnel Administration
+Public Policy and Management
+Shipping and Logistics Management
+Technical Textile Management
+Technology Management
+Telecom Management
+Textile Management
+Tourism Management
+Transport and Logistics Management
+Power Management
+Disaster Management
+Health Care Administration
+Health Care and Hospital Management
+Healthcare Management
+Heritage Management
+Hospital Administration
+Hospital and Health Care Management
+Hospital Management
+Hospitality Management
+Human Resource Management
+Information Management
+Infrastructure Management
+International Business
+Management
+Manufacturing Management
+Mass Communication
+Materials Management
+Operations Management
+Pharmaceutical Management
+Public Systems
+Retail Management
+Rural Management
+Sports Management
+Sustainability Management
+Agricultural Technology
+Polymer\
+Treatment\
+Chemical Technology
+Dye Stuff Technology
+Rubber Technology
+Rubber and Plastics Technology
+Dyestuff Technology
+Surface Coating Technology
+Technology
+Technology\
+Construction Technology
+Construction Technology and
+Computer Science and Technology
+Computer Science and Information
+Technology
+Computer Technology
+and Power\
+Smart Agritech
+Automobile Maintenance
+Automobile
+Chemical and Biochemical
+Building and Construction
+Application
+Construction Automation
+Management
+Management
+Computer Science
+Computer and Communication
+Computer Science and Applied
+Mathematics
+Application
+Computer Science and Biosciences
+Computer Science and Design
+Computer Science and
+Computer Science and Social
+Sciences
+Computer Science
+Computer Science and Business
+Systems
+Computer Science and Medical
+Computer Science and
+Computer Science and Systems
+Computer Science and
+Mathematics and Computing
+Control
+Food Technology
+Food Processing Technology
+Food Technology
+Food Technology and
+Industrial and Production
+Information Technology
+Technology
+Technology
+Information Technology
+Information Technology and
+Digital Techniques for Design and
+Design and Technology\
+Technology
+Management
+Management
+Information and Communication
+Information Science and
+Information Science and
+Instrumentation
+Biomedical Instrumentation
+Control
+Planning
+Information System
+Communications
+Instrument Technology
+Instrumentation Technology
+Technology\
+Material Science and Technology
+Technology
+Fibres and Textiles Processing
+Technology
+Jute and Fibre Technology
+Man Made Fibre Technology
+Carpet and Textile Technology
+Man-Made Textile Technology
+Technical Textiles
+Handloom and Textile Technology
+Textile Processing
+Textile Technology
+Instrumentation
+Instrumentation and Control
+Mechanical and Mechatronics
+Metallurgy
+Metallurgical and Materials
+Metallurgy
+Metallurgy and Material
+Agricultural Technology
+Technology\
+Polymer\
+Technology\
+Chemical Technology
+Technology\
+Plastic Technology\
+Chemical Technology Fertilizer
+Surface Coating Technology
+Technical Chemistry
+Technology\
+Construction Technology
+Construction Technology and
+Computer Science and Technology
+Computer Software Technology
+Computer Technology
+Computer Technology and
+and Power\
+Mobile
+Management
+Construction Management
+Computer Science
+and Maintenance
+Computer Hardware and
+Computer Applications
+Application
+Computer Hardware and
+Maintenance
+Computer Hardware and
+Computer Science and
+Computer Science
+Computer Science and Systems
+Applications
+Computer Applications
+Food Technology
+Food Processing Technology
+Food Technology
+Information Technology
+Technology
+Technology
+Information Technology
+Information Technology and
+and Power\
+Technology
+Telecommunication Technology
+Technology
+Information and Communication
+Information Science and
+Information Science and
+Instrumentation
+Control and Instrumentation
+Biomedical Instrumentation
+Microprocessor
+Digital Systems
+Microprocessor
+Maintenance
+Information System
+Digital Communications
+Information and Communication
+Instrument Technology
+Instrumentation Technology
+Technology
+Drilling Technology
+Apparel Design and Fabric
+Apparel Design and Fabrication
+Technology
+Apparel Design and Fashion
+Technology
+Apparel Technology
+Handloom and Textile Technology
+Fibre Technology\
+Fashion and Clothing Technology
+Fashion and Design
+Fashion and Apparel Design
+Fashion Designing
+Fashion Designing and Garment
+Technology
+Fashion Technology
+Garment Technology
+Garment and Fashion Technology
+Garment Design and Fashion
+Technology
+Garment Fabrication
+Technology
+Handloom and Textile Technology
+Textile Chemistry
+Textile Design
+Textile Designing
+Textile Designing Printing
+Textile Manufactures
+Textile Manufacturing and
+Technology
+Textile Processing
+Textile Processing Technology
+Textile Technology
+Fibre\
+Instrumentation
+Instrumentation and Control
+Refrigeration and Air Conditioning
+Metallurgy
+Metallurgy
+Metallurgy and Material
+Apparel Manufacture and Design
+Computer Aided Costume Design
+Dress Designing and Garment
+Manufacturing
+Garment Manufacturing
+Management
+and Power Plants\
+Agricultural Technology
+Fisheries Engineering and Technology
+Fisheries Technology
+Ophthalmic Technology
+Technician X-Ray Technology
+Ceramic Technology
+Cement Technology
+Plastic and Mould Technology
+Petrochemicals
+Surface Coating Technology
+Chemical Technology
+Textile Chemistry
+Technology\
+Chemical Technology Fertilizer
+Surface Coating Technology
+Technical Chemistry
+Smart and Sustainable Transportation
+ANNEXURE-12
+Aeronautical Engineering
+Agriculture Engineering
+Smart Agritech
+Architecture Engineering
+Architectural Assistantship
+Interior Decoration
+Interior Design
+Automobile Engineering
+Biomedical Engineering
+Biomedical Instrumentation
+Biotechnology
+Biotechnology
+Ceramic Engineering
+Ceramics
+Chemical Engineering
+Civil Engineering
+Geoinformatics
+Construction Technology
+Construction Technology and Management
+Positioning System
+Commercial and Computer Practice
+Computer Science and Technology
+Computer Science and Information Technology
+Computer Software Technology
+Computer Technology
+Computer Technology and Applications
+Cyber Forensics and Information Security
+Information and Communication Technology
+Information Science and Technology
+Information Technology
+Multimedia Technology
+Technology
+Management
+Geographic Information System and Global
+Computer Science and Engineering
+Maintenance
+Computer and Information Science
+Computer Applications
+Computer Hardware and Maintenance
+Computer Science
+Cloud Computing and Big Data
+Gaming and Animation
+Information Science
+Information Security Management
+Management
+System
+Dairy Engineering
+Electrical Engineering
+System
+Combat Radio and Communication Technology
+Telecommunication Technology
+Telecommunication Technology
+Information and Communication Technology
+Fashion Technology
+Jewellery Design and Manufacture Technology
+Fire Technology and Safety
+Film Engineering and Technology
+Production
+Electronics and Communication Engineering
+Digital Communications
+Digital Systems
+IC Manufacturing
+Environmental Engineering
+Energy Engineering
+Fire and Safety Engineering
+Cinematography
+Food Engineering and Technology
+Sugar Technology
+Food Processing Technology
+Food Technology
+Instrument Technology
+Instrumentation Technology
+Robotic Process Automation
+Instrumentation and Process Control
+Leather Technology
+Footwear Technology
+Leather and Fashion Technology
+Leather Goods and Footwear Tech
+Leather Technology
+Leather Technology Footwear Computer Aided
+Leather Technology Tanning
+Training\
+Finance Account and Auditing
+Logistics Technology
+Foundry Technology
+Precision Manufacturing
+Robotic Process Automation
+Photography
+Smart Agritech
+Instrumentation Engineering
+Automation and Robotics
+Control and Instrumentation
+Construction Automation
+Instrumentation
+Shoe Design
+Library
+Library and information Science
+Marine Engineering
+Management
+Material Management
+Mechanical Engineering
+CAD CAM
+Design and Drafting
+Mechanical CAD/CAM
+Conditioning
+Robotics and Mechatronics
+Machine Tools Technology
+Fabrication Technology
+Metallurgy and Material Technology
+Drilling Technology
+Oil and Paint Technology
+Packaging Technology
+Petrochemical Engineering
+Petrochemical Technology
+Petroleum Technology
+Pharmaceutical Chemistry and Technology
+Plastic and Polymer Technology
+Plastic and Mould Technology
+Plastics Mould Technology
+Plastic Mould Technology
+Plastics Technology
+Plastic Technology
+Plastics Processing and Testing
+Polymer Technology
+Plastic Process and Testing
+Post Plastic Process and Testing
+Printing Technology
+Printing Technology
+Machine Tools Technology
+Design/Computer Aided Manufacturing
+Refrigeration and Air Conditioning
+Material Management
+Mechatronics
+Mechatronics
+Robotics and Mechatronics
+Metallurgical Engineering
+Metallurgy
+Military Engineering
+Mining Engineering
+Pharmaceutical Engineering
+Beauty Culture and Cosmetology
+Cosmetology and Health
+Production Engineering
+IC Manufacturing
+Manufacturing Technology
+Precision Manufacturing
+Production Technology
+Logistics Technology
+Fabrication Technology
+Digital Manufacturing Technologies
+Jewellery Design and Manufacture Technolog
+Foundry Technology
+Pulp Technology
+Pulp Technology
+Paper Technology
+Paper and Pulp Technology
+Ship Technology
+Textile Technology
+Apparel Design and Fabric
+Apparel Design and Fabrication Technology
+Apparel Design and Fashion Technology
+Apparel Technology
+Carpet Technology
+Handloom and Textile Technology
+Technology\
+Fashion and Clothing Technology
+Fashion and Design
+Fashion and Apparel Design
+Fashion Designing
+Fashion Designing and Garment Technology
+Fashion Technology
+Garment Technology
+Garment and Fashion Technology
+Garment Design and Fashion Technology
+Garment Fabrication
+Garment Manufacturing Technology
+Handloom and Textile Technology
+Textile Chemistry
+Textile Design
+Textile Designing
+Textile Designing Printing
+Textile Manufactures
+Textile Manufacturing Technology
+Textile Manufacturing and Technology
+Textile Processing
+Textile Processing Technology
+Textile Technology
+Rubber Technology
+Rubber Technology
+Technology\
+Hotel Management and Catering Technology
+Hotel Management and Catering Technology
+Material Management
+CAD CAM
+Design and Drafting
+Mechanical CAD/CAM
+Apparel Manufacture and Design
+Computer Aided Costume Design and Dress
+Dress Designing and Garment Manufacturing
+Home Science
+Medical Electronics
+Biomedical Instrumentation
+Medical Laboratory Technology
+Practice
+Commercial Practice
+Health Care Technology
+Animation and Multimedia Technology
+Agricultural Technology
+Ophthalmic Technology
+Technician X-Ray Technology
+Ceramic Technology
+Dyestuff Technology
+Rubber and Plastics Technology
+Home Science
+Beauty and Hair Dressing
+Recording and Sound
+Mass Communication
+Accounts and Audit
+Computer Application and Business
+Management
+Aeronautical Engineering
+Airline Management
+Agricultural Engineering
+Smart Agritech
+Architectural Assistantship
+Architectural Assistantship
+Architecture and Interior Decoration
+Architecture Assistantship
+Automobile Engineering
+Architectural Assistantship
+Interior Decoration
+Interior Design
+Automobile Engineering
+Biomedical Engineering
+Biomedical Instrumentation
+Biomedical Engineering
+Biomedical Instrumentation
+Biotechnology
+Biotechnology
+Bioinformatics
+Computer Science and Biosciences
+Ceramics Engineering
+Chemical Engineering
+Technology
+Chemical Technology
+Dye Stuff Technology
+Surface Coating Technology
+Surface Coating Technology
+Oil and Paint Technology
+Chemical Engineering \(Oil Technology\
+Oil Technology
+Technology
+Paint Technology
+Civil Engineering \(Construction Technology\
+Building and Construction Technology
+Construction Technology
+Construction Technology and Management
+Geo informatics and Surveying Technology
+Geospatial Technology and Geoinformatics
+Chain Technology\
+Intelligence and Machine Learning\
+Computer Science and Technology
+Technology
+Computer Technology
+Information Technology and Engineering
+Information and Communication Technology
+Oils, Oleochemicals and Surfactants
+Oils, Oleo chemicals and Surfactants
+Civil and Environmental Engineering
+Civil Engineering
+Control
+Construction Automation
+Geo Informatics
+3-D Animation and Graphics
+3-D Animation and Graphics
+Computer Engineering Computer Science
+and Engineering
+Computer Science and Applied Mathematics
+3-D Animation and Graphics
+Computer Science
+Cyber Physical Systems
+Business Systems
+Computer Science and Design
+Industrial IoT*
+Computer Science and Biosciences
+Computer Science and Business Systems
+Computer Science and Social Sciences
+Computer Science and Information
+Computing in Computing
+Computing in Multimedia
+Computing in Software
+Information Science and Technology
+Information Technology
+Dairy Technology
+Power\
+Electrical and Power Engineering
+Digital Techniques for Design and Planning
+Nano Technology
+Technology\
+Nano Science and Technology
+Electronics and Telecommunication
+Dairy Engineering
+Electrical Engineering Electrical and
+Electronics Engineering
+Advanced Electronics and Communication
+Engineering
+System
+Digital Electronics
+Electronics and Communication Engineering
+Engineering
+Electronics and Electrical Engineering
+Energy Engineering and Technology
+Opto-Electronics Engineering
+Power Electronics
+Fire Technology and Safety
+Fire Technology and Safety
+Fire and Life Safety
+Food Technology
+Food Processing Technology
+Food Technology
+Food Technology and Management
+Fisherier Technology
+Instrument Technology
+Instrumentation Technology
+Automation and Robotics
+Medical Lab Technology
+Footwear Technology
+Leather Technology
+Leather Technology
+Marine Technology
+Manufacturing Process and Automation
+Manufacturing Technology
+Technology\
+Environmental Engineering
+Optics and Optoelectronics
+Automation Engineering
+Automation and Robotics
+Instrumentation Engineering
+Instrumentation
+Construction Automation
+Robotics and Automation
+Medical Electronics Engineering
+Shipbuilding Engineering
+Marine Engineering
+Industrial and Production Engineering
+Manufacturing Engineering
+Mechanical Engineering
+Precision Manufacturing
+Tool and Die Engineering
+Material Science and Technology
+Metallurgy and Material Technology
+Nuclear Science and Technology
+Nuclear Science and Technology
+Printing and Packing Technology
+Printing Technology
+Petroleum Engineering
+Petrochemical Technology
+Petroleum Technology
+Pharmaceutical Chemistry and Technology
+Pharmaceuticals and Fine Chemical
+Technology Pharmaceutical Chemistry and
+Technology
+Pharmaceuticals and Fine Chemical
+Technology
+Pharmaceutical Chemistry and Technology
+Pharmaceutical Chemistry and Technology
+Plastic and Polymer Engineering
+Plastic Technology
+Plastics Technology
+Polymer Science and Chemical Technology
+Polymer Science and Technology
+Polymer Technology
+Pulp Technology
+Pulp Technology
+Poultry Engineering and Technology
+Poultry Technology
+Apparel and Production Management
+Fashion and Apparel Technology
+Fashion Technology
+Textile Processing Technology
+Fibres and Textiles Processing Technology
+Apparel and Production Management
+Jute and Fibre Technology
+Man Made Fibre Technology
+Man-Made Textile Technology
+Textile Engineering
+Textile Chemistry
+Handloom and Textile Technology
+Carpet and Textile Technology
+Textile Chemistry
+Technical Textiles
+Textile Processing
+Textile Technology
+Rubber Technology
+Rubber and Plastics Technology
+Rubber Technology
+Cement Technology
+Cement and Ceramic Technology
+- Nano Technology and Robotics
+Mechatornics
+Automation
+Mechanical and Smart Manufacturing
+Robotics and Automation
+Mechatronics
+Metallurgical Engineering
+Metallurgy
+Mining Engineering
+Apparel Manufacture and Design
+Fashion and Apparel Design
+- Planning
+Agricultural Technology
+Ceramic Technology
+Technology\
+Technology\
+Chemical Technology
+Technology\
+Technology\
+Chemical Technology Fertilizer
+Surface Coating Technology
+Technical Chemistry
+Paint Technology
+Technology\
+Technology\
+Petrochemical Technology
+Petroleum Technology
+Plastic and Mould Technology
+Plastic Mould Technology
+Plastic Technology
+Plastics Processing and Testing
+Polymer Technology
+Plastic Process and Testing
+Construction Technology
+ANNEXURE-13
+Aeronautical Engineering
+Agriculture Engineering
+Architecture
+Architectural Assistantship
+Interior Decoration
+Interior Design
+Biotechnology
+Biotechnology
+Ceramic Engineering
+Chemical Engineering
+1.1.
+1.2.
+1.3.
+1.4.
+1.5.
+1.6.
+1.7.
+1.8.
+1.9.
+1.10.
+1.11.
+1.12.
+1.13.
+2.1.
+2.2.
+2.3.
+3.1.
+3.2.
+3.3.
+3.4.
+3.5.
+3.6.
+4.1.
+4.2.
+4.3.
+4.4.
+4.5.
+4.6.
+4.7.
+4.8.
+4.9.
+Civil Engineering
+1.1.
+1.2.
+1.3.
+1.4.
+1.5.
+1.6.
+1.7.
+1.8.
+1.9.
+1.10.
+1.11.
+1.12.
+Construction Technology and
+Technology
+Positioning System
+Pollution Control\
+Computer Science and Technology
+Computer Software Technology
+Computer Technology
+Computer Technology and Applications
+Cyber Forensics and Information Security
+Technology
+Technology
+Information Science and Technology
+Information Technology
+Power\
+1.13.
+Management
+1.14.
+1.15.
+Geographic Information System and Global
+1.16.
+Management
+1.17.
+1.18.
+2.1.
+2.2.
+2.3.
+2.4.
+2.5.
+2.6.
+2.7.
+3.1.
+3.2.
+3.3.
+Computer Science  and Engineering
+1.1.
+1.2.
+Maintenance
+1.3.
+1.4.
+Computer Applications
+1.5.
+1.6.
+1.7.
+Computer Hardware and Maintenance
+1.8.
+1.9.
+1.10.
+1.11.
+Computer Science
+1.12.
+1.13.
+1.14.
+1.15.
+1.16.
+1.17.
+1.18.
+1.19.
+1.20.
+1.21.
+2.1.
+Computer Science and Information
+2.2.
+Information and Communication
+2.3.
+2.4.
+Information Science
+2.5.
+2.6.
+2.7.
+Information Security Management
+2.8.
+2.9.
+2.10.
+and Management
+2.11.
+System
+2.12.
+2.13.
+Computer and Information Science
+Dairy Engineering
+Electrical Engineering
+Electronics and Communication Engineering
+1.1.
+1.2.
+1.3.
+1.4.
+Digital Systems
+1.5.
+2.1.
+Power\
+Telecommunication Technology
+Technology
+Instrument Technology
+Instrumentation Technology
+Fire Technology and Safety
+Food Processing Technology
+Food Technology
+Leather Technology
+Footwear Technology
+Leather and Fashion Technology
+Leather Goods and Footwear Tech
+Leather Technology
+Footwear Technology
+Leather and Fashion Technology
+Leather Goods and Footwear Tech
+2.2.
+2.3.
+2.4.
+2.5.
+2.6.
+2.7.
+2.8.
+2.9.
+2.10.
+2.11.
+2.12.
+2.13.
+2.14.
+2.15.
+2.16.
+2.17.
+2.18.
+2.19.
+2.20.
+2.21.
+2.22.
+2.23.
+2.24.
+2.25.
+2.26.
+2.27.
+2.28.
+2.29.
+System
+2.30.
+2.31.
+2.32.
+2.33.
+Digital Communications
+2.34.
+2.35.
+2.36.
+2.37.
+2.38.
+2.39.
+2.40.
+Information and Communication
+3.1.
+3.2.
+Automation and Robotics
+3.3.
+3.4.
+Control and Instrumentation
+3.5.
+Biomedical Instrumentation
+3.6.
+3.7.
+3.8.
+3.9.
+3.10.
+3.11.
+3.12.
+3.13.
+3.14.
+3.15.
+Instrumentation
+3.16.
+Instrumentation
+3.17.
+3.18.
+3.19.
+4.1.
+4.2.
+4.3.
+4.4.
+4.5.
+Biomedical Instrumentation
+Fire and Safety Engineering
+Food Engineering
+Leather Technology
+Leather Technology Footwear Computer
+Leather Technology Tanning
+Training\
+Fabrication Technology
+Foundry Technology
+Machine Tools and Maintenance
+Machine Tools Technology
+Manufacturing Technology
+Precision Manufacturing
+Production Technology
+Metallurgy and Material Technology
+Aided Shoe Design
+Management
+Marine Engineering
+Mechanical Engineering
+1.1.
+1.2.
+1.3.
+1.4.
+1.5.
+1.6.
+1.7.
+1.8.
+1.9.
+1.10.
+1.11.
+1.12.
+1.13.
+1.14.
+1.15.
+1.16.
+1.17.
+Refrigeration and Air Conditioning
+2.1.
+CAD CAM
+2.2.
+Design and Drafting
+2.3.
+2.4.
+2.5.
+2.6.
+2.7.
+2.8.
+2.9.
+2.10.
+2.11.
+2.12.
+2.13.
+Material Management
+2.14.
+2.15.
+Mechanical CAD/CAM
+2.16.
+2.17.
+2.18.
+2.19.
+2.20.
+2.21.
+2.22.
+2.23.
+2.24.
+2.25.
+2.26.
+2.27.
+2.28.
+2.29.
+2.30.
+2.31.
+2.32.
+3.1.
+Mechatronics
+3.2.
+Robotics and Mechatronics
+Metallurgy Engineering
+Metallurgy
+Military Engineering
+Mining Engineering
+Drilling Technology
+Packaging Technology
+Pharmaceutical Chemistry and Technology
+Printing Technology
+Pulp Technology
+Pulp Technology
+Textile Engineering
+Apparel Design and Fabric
+Apparel Design and Fabrication Technology
+Apparel Design and Fashion Technology
+Technology
+Handloom and Textile Technology
+Technology\
+Fashion and Clothing Technology
+Fashion and Design
+Fashion and Apparel Design
+Fashion Designing
+Fashion Designing and Garment
+Technology
+Fashion Technology
+Garment Technology
+Garment and Fashion Technology
+Garment Design and Fashion Technology
+Garment Fabrication
+Garment Manufacturing Technology
+Handloom and Textile Technology
+Textile Chemistry
+Textile Design
+Textile Designing
+Textile Designing Printing
+Textile Manufactures
+Textile Manufacturing and Technology
+Textile Processing
+Textile Processing Technology
+Textile Technology
+Health Care Technology
+Medical Laboratory Technology
+Ophthalmic Technology
+Technician X-Ray Technology
+Multimedia Technology
+Animation and Multimedia Technology
+Multimedia Technology
+Finance Account and Auditing
+Secretarial Practice
+Commercial and Computer Practice
+Commercial Practice
+Rubber Technology
+Technology\
+Pharmaceutical Engineering
+Printing Engineering
+Apparel Manufacture and Design Apparel
+Computer Aided Costume Design and
+Dress Designing and Garment
+Manufacturing
+Biomedical Engineering
+3-D Animation and Graphics
+Accounts and Audit
+Computer Application and Business
+Management
+Rubber
+Cosmetology
+Beauty and Hair Dressing
+Beauty Culture and Cosmetology
+Cosmetology and Health
+Cinematography
+Cinematography
+Production
+Processing\
+Technology
+Cement Technology
+Cement Technology
+Fisheries Technology
+Fisheries Technology
+Technology
+Jewellery Design and Manufacture
+Technology
+Sugar Technology
+Sugar Technology
+Travel and Tourism
+Wood Technology
+Photography
+Hotel Management
+Hotel Management and Catering
+Journalism and Mass Communication
+Mass Communication
+Engineering Education
+Home Science
+Home Science
+Jewellery Design and Manufacture
+Library and Information Science
+Library and Information Science
+Agricultural Technology
+Cement and Ceramic Technology
+Ceramic Technology
+Building and Construction Technology
+Technology\
+Construction Technology
+Construction Technology and
+Geospatial Technology and
+Pollution Control
+Aeronautical Engineering
+Airline Management
+Agriculture Engineering
+Smart Agritech
+Architecture and Planning
+1.1.
+Architectural Assistantship
+1.2.
+1.3.
+Architecture and Interior Decoration
+1.4.
+Architecture Assistantship
+1.5.
+Architecture
+1.6.
+1.7.
+Management
+1.8.
+Interior Design
+2.1.
+2.2.
+Infrastructure Planning
+2.3.
+Planning
+2.4.
+2.5.
+2.6.
+2.7.
+2.8.
+Management
+Biotechnology
+Biotechnology
+Bioinformatics
+Computer Science and Biosciences
+Biotechnology and Biochemical
+Industrial Biotechnology
+Biomedical Engineering
+Biomedical instrumentation
+Ceramic Engineering
+Civil Engineering
+1.1.
+1.2.
+1.3.
+1.4.
+Application
+1.5.
+1.6.
+1.7.
+1.8.
+1.9.
+1.10.
+1.11.
+Construction Automation
+1.12.
+1.13.
+Management
+1.14.
+1.15.
+Management
+1.16.
+Geoinformatics
+1.17.
+Geo Informatics
+2.1.
+2.2.
+2.3.
+2.4.
+2.5.
+2.6.
+2.7.
+2.8.
+2.9.
+2.10.
+2.11.
+Learning
+Computer Science and Technology
+Technology
+Learning\
+Computer Technology
+Technology
+Information Science and Technology
+Information Technology
+Polymer\
+Chemical Technology
+Dye Stuff Technology
+Rubber Technology
+Rubber and Plastics Technology
+Dyestuff Technology
+Surface Coating Technology
+Oil and Paint Technology
+Oil Technology
+Technology
+Paint Technology
+Petrochemical Technology
+Petroleum Technology
+Dairy Technology
+Computer Science and Engineering
+1.1.
+3-D Animation and Graphics
+1.2.
+1.3.
+1.4.
+1.5.
+Computer and Communication
+1.6.
+Computer Science and Applied
+Mathematics
+1.7.
+1.8.
+1.9.
+1.10.
+Computer Science and Biosciences
+1.11.
+Computer Science and Design
+1.12.
+1.13.
+1.14.
+Computer Science and Social Sciences
+1.15.
+Cyber Physical Systems
+1.16.
+Computer Science
+1.17.
+Computer Science and Business Systems
+1.18.
+1.19.
+Computer Science and Medical
+1.20.
+1.21.
+1.22.
+1.23.
+Business Systems
+1.24.
+Computer Science and Information
+1.25.
+1.26.
+1.27.
+Computer Science and Systems
+1.28.
+1.29.
+1.30.
+1.31.
+1.32.
+Computing in Computing
+1.33.
+Computing in Multimedia
+1.34.
+Computing in Software
+1.35.
+1.36.
+1.37.
+1.38.
+Mathematics and Computing
+1.39.
+2.1.
+Information and Communication
+2.2.
+2.3.
+2.4.
+2.5.
+2.6.
+Chemical Engineering
+1.1.
+1.2.
+1.3.
+1.4.
+1.5.
+1.6.
+1.7.
+1.8.
+1.9.
+1.10.
+1.11.
+1.12.
+1.13.
+2.1.
+2.2.
+2.3.
+Oils, Oleo Chemicals and Surfactants
+2.4.
+3.1.
+3.2.
+3.3.
+3.4.
+3.5.
+Dairy Engineering
+Power\
+Digital Techniques for Design and
+Technology\
+Technology
+Electrical Engineering
+Energy Engineering
+Electronics Engineering
+1.1.
+1.2.
+Planning
+1.3.
+1.4.
+1.5.
+1.6.
+1.7.
+1.8.
+1.9.
+1.10.
+1.11.
+1.12.
+1.13.
+1.14.
+1.15.
+1.16.
+1.17.
+1.18.
+1.19.
+Optics and Optoelectronics
+1.20.
+1.21.
+1.22.
+2.1.
+Information System
+2.2.
+2.3.
+2.4.
+2.5.
+2.6.
+2.7.
+2.8.
+2.9.
+2.10.
+2.11.
+2.12.
+2.13.
+2.14.
+2.15.
+2.16.
+2.17.
+2.18.
+2.19.
+2.20.
+2.21.
+3.1.
+3.2.
+Automation and Robotics
+3.3.
+3.4.
+Biomedical Instrumentation
+3.5.
+3.6.
+3.7.
+Instrument Technology
+Instrumentation Technology
+Medical Lab Technology
+Technology\
+Technology
+Manufacturing Process and Automation
+Manufacturing Technology
+Precision Manufacturing
+3.8.
+3.9.
+3.10.
+3.11.
+3.12.
+3.13.
+3.14.
+3.15.
+3.16.
+3.17.
+Instrumentation
+3.18.
+3.19.
+3.20.
+3.21.
+3.22.
+3.23.
+Robotics and Automation
+4.1.
+4.2.
+Automation
+4.3.
+Mechatronics
+4.4.
+5.1.
+5.2.
+5.3.
+5.4.
+Mechanical Engineering
+1.1.
+1.2.
+1.3.
+1.4.
+1.5.
+1.6.
+1.7.
+1.8.
+1.9.
+1.10.
+1.11.
+1.12.
+1.13.
+2.1.
+2.2.
+2.3.
+2.4.
+Automation
+2.5.
+2.6.
+2.7.
+2.8.
+2.9.
+2.10.
+2.11.
+2.12.
+2.13.
+2.14.
+2.15.
+3.1.
+3.2.
+3.3.
+3.4.
+3.5.
+3.6.
+3.7.
+3.8.
+3.9.
+3.10.
+Industrial IoT
+3.11.
+4.1.
+4.2.
+4.3.
+4.4.
+Industrial IoT
+4.5.
+5.1.
+5.2.
+5.3.
+5.4.
+Mechanical and Smart Manufacturing
+5.5.
+Mechatronics
+Fire Technology and Safety
+Fire and Life Safety
+Food Processing Technology
+Food Technology
+Food Technology and Management
+Leather Technology
+Footwear Technology
+Leather Technology
+Marine Technology
+Material Science and Technology
+Metallurgy and Material Technology
+Nano Technology
+Nano Science and Technology
+Nano Technology
+Nano Technology and Robotics
+Nuclear Science And Technology
+Nuclear Science and Technology
+Packaging Technology
+Pharmaceuticals and Fine Chemical
+Technology
+Pharmaceutical Chemistry and Technology
+Poultry Engineering
+Poultry Technology
+Printing Technology
+Pulp Technology
+Textile Engineering
+Fibres and Textiles Processing Technology
+Jute and Fibre Technology
+Man Made Fibre Technology
+Carpet and Textile Technology
+Man-Made Textile Technology
+Technical Textiles
+Handloom and Textile Technology
+Textile Processing
+Textile Technology
+Fashion Technology
+Apparel and Production Management
+Fashion and Apparel Technology
+Textile Chemistry
+5.6.
+Fire and Safety Engineering
+Fisheries Engineering
+Food Engineering
+Marine Engineering
+Metallurgy Engineering
+Metallurgy
+Military Engineering
+Mining Engineering
+Pharmaceutical Engineering
+Printing Engineering
+Pulp Engineering
+1.1.
+1.2.
+1.3.
+1.4.
+1.5.
+1.6.
+1.7.
+1.8.
+1.9.
+1.10.
+1.11.
+1.12.
+1.13.
+2.1.
+2.2.
+2.3.
+2.4.
+2.5.
+3.1.
+Respect to the Land/ Building
+Occupation
+Rural-Town and
+Rural- Town and
+Rural-Town and
+Town and Country
+Planning, Municipal
+Town Planner and
+Authority/ Town
+Planner, Nagar
+Panchayat
+Rural-Town And
+Rural- Town and
+-Gram Panchayat/ Jila
+Panchayat
+Planner,Nagar
+Panchayat,
+Panchayat
+Rural - Panchayat
+Institutions/ Port Blair
+of Arunachal Pradesh
+ANNEXURE-14
+State
+Land use
+Site Plan
+Building Plan
+Country  Planning
+Country  Planning
+Country Planning
+Corporation
+Authority/ Municipal
+Department
+Commissioner of
+Municipal
+Corporation,
+Collector
+Country Planning
+Country Planning
+Corporation / Nagar
+Commissioner of
+Municipal
+Corporation,
+Area
+Area
+Municipal Council for
+Andaman Public
+Deputy
+The Deputy
+Commissioner
+Districts
+GMDA or GMC
+Panchayat
+Rural - Panchayat/
+- Local bodies i.e
+Nagar Panchayat,
+Nagar Parisad,
+Rural - Panchayat/
+i.e Nagar Panchayat,
+Nagar Parisad, Nagar
+Rural: Panchayat
+Settlement and Land
+and Land Records
+Manipur,
+Lamphelpat,
+Secretary, Land
+Secretary, Land
+Department / Town
+Department/ Town
+Guwahati Metro:
+Municipal
+Corporation under
+the building is
+situated. Rural:
+Deputy Commissioner
+Nigam/ Regional
+Corporation under
+whose
+Building is situated
+Department of
+Manipur
+Manipur
+District Settlement
+Department of
+Settlement
+Authority
+Outside Aizwal:
+Aizwal Municipal
+Corporation Outside
+Aizwal: Head of the
+Concerned
+Department
+Municipal Corporation
+Outside Aizwal: Head
+of the Concerned
+Department
+Aizawl Municipal
+Council
+Authority
+Department
+Management
+Odisha
+Planning /
+Authority
+Planning/
+Municipality
+Department of the
+District
+of the HRDD of
+Building and Housing/
+Department
+Housing
+Authority
+Agartala Municipal
+Council
+North Western  Region
+Town and Country
+Panchayat
+Panchayat
+Chief Administrator,
+Commissioner,
+rural area. The Change of Land use permission for setting up of
+General, Technical
+Panchayat of
+Panchayat of
+The Director,
+Technical
+Himachal Pradesh,
+Sundernagar,
+Himachal Pradesh
+Panchayat and
+Commissioner,
+Planning
+Department/
+Authority/ Municipal
+Authority
+Authority/ Municipal
+Authority/Zila
+Authority/ Municipal
+Authority/ Zila
+Department of
+Planning
+are required to be obtained only for the sites, which are located within\
+part of the controlled area, which falls within urbanizable zone of
+mentioned here that powers to grant permission for the areas falling
+depending upon on the site in question
+The Director
+of Haryana,
+Haryana
+Planning
+Department/
+Authority/ Municipal
+Authority of
+Concerned area
+Authority/ Municipal
+Authority/ Zila
+Concerned area
+Authority/ Municipal
+Authority/ Zila
+Concerned area
+Directorate of
+District Mandi,
+Municipal
+Committees or
+Nagar
+Member Secretary
+in Special Area
+Authority and  in
+Municipal
+Corporation
+Architect Planner
+on behalf
+Municipal
+Corporation
+Rural- Prepared by
+- Prepared by Architect
+DDA /Municipal
+DDA/ Municipal
+DDA/ Municipal
+Town Planner of
+Department, Town
+Town Planner of
+Department, Town
+Planning, for an area
+Department, Town and
+Country Planning, for
+to 5000m2 Chief Town
+Tehsildar of the
+Type of
+Land
+Conversion
+Occupation
+Land Allotment
+Principal of
+Land Allotment
+Principal of
+Rural Assistant
+Commissioner
+Architect and
+Municipal Authority/
+Architect and
+Authority Rural
+Municipality Rural-
+Deputy
+Commissioner
+Commissioner of
+Corporation of Delhi
+Commissioner of
+Corporation of Delhi
+Commissioner of
+Corporation of Delhi
+Joint Director
+and Country Planning
+and Country
+of Building measuring
+upto 5000 m2 Chief
+for an area of
+5000m2
+Planner of
+an area of the
+Building measuring up
+area of the Building
+In rural area
+concerned area
+and in urban area
+Municipal
+Corporation/
+Municipal
+Committee/
+purchased from
+Concerned area
+State
+Area
+Land Use
+Site
+Plan
+Building
+Plan
+Unit
+to sq.m
+In case of
+letter by District
+Administration
+Collector/SDM/
+Chief Architect or
+sq.m
+Nagar
+Nigam /
+Municipal
+Corporation/
+Municipality/
+the Institute
+In case of
+Rural Area
+letter by District
+Administration
+Collector/SDM/
+Chief Architect or
+sq.m
+Nagar
+Nigam /
+Municipal
+Corporation/
+Municipality/
+the Institute
+Type of
+Land
+Conversion
+South Central  Region
+General Town Planning
+Local Bodies
+Local bodies such
+Director, Directorate of
+Town and
+General Town Planning
+Panchayat/ Local
+sanctioned GTP
+Local bodies
+of Gram Panchayat
+Panchayat is not
+area Town Planning Act
+Telangana\
+Director, Directorate
+of Town and Country
+State
+Area
+Land Use
+Site Plan
+Building
+Plan
+Unit
+to sq.m
+Occupation
+In case
+Area
+Collector/
+SDO/
+in land
+Nagar  Nigam/ Nagar
+Authority
+0.4 hectare
+Nagar Nigam/
+Municipal
+Corporation/
+Municipality
+In case of
+Rural Area
+Collector/
+SDO/
+in land
+Nagar  Nigam/ Nagar
+Authority
+0.4 hectare
+Nagar Nigam/
+Municipal
+Corporation/
+Municipality
+State
+Land use
+Site Plan
+Building Plan
+Occupation
+Municipal
+Corporation/ RDO/ MRO
+sanctioned
+Schemes proposals in
+other areas
+Commissioner in
+Municipal
+as Commissioner of
+Municipal
+Corporation /
+Municipality/
+Country Planning is the
+Competent Authority
+for other areas
+sanctioned
+Schemes proposals in
+other areas
+local bodies
+Municipal/ Gram
+Schemes
+Commissioner/
+Chairman of
+Commissioner in GHMC
+Commissioner for GHMC
+area
+Authority Gram
+applicable to
+conditions laid down by
+issued on 7th September
+1920 is applicable for
+both Andhra and
+Commissioner for
+Hyderabad,
+Planning for areas
+other than
+Hyderabad
+Southern Region
+Department of Town
+Town and Country
+Town and Country Planning
+Pondicherry,
+Department of Town
+Town and Country
+Member Secretary, CMDA
+of Town and Country
+South Western Region
+Planning Authority.
+Authority. Concerned
+Local body
+Body/Rural Local
+Local Body/Gram
+Panchayat.
+Concerned Local
+Rural Local Body Local-
+Concerned Local body/
+Local Gram Panchayat
+Tahsildar
+Head, Local Body
+Head, Local Body/
+Town Planning
+Concerned Local Body
+Western Region
+Deputy Collector,
+Associate Town
+Planner, Daman
+Associate Town
+Planner, Daman
+Panchayat of
+Panchayat
+Panchayat
+Nagar Panchayat/
+Gram Panchayat
+Panchayat
+and Country
+Planning
+Department of
+Planning
+and Country
+Planning
+Department of
+Planning
+for Chennai and Directorate
+Planning for
+areas other than
+Chennai
+Authority/Planning
+Authority/Municipal
+Planning Authority
+Authority/ Planning
+Authority/ Municipal
+exempted.
+Authority/ Planning
+Authority/ Municipal
+Planning
+Authority Rural-
+Planning Authority/
+Municipal Planning
+body
+Completion
+Secretary of the
+Daman
+Planning
+Department
+Planning Department
+area
+Planning
+of concerned area
+concerned area
+Collector/Municipal
+Corporation/
+Metropolitan
+Regional
+Authority
+Municipal
+Corporation/
+Metropolitan
+Regional
+Authority
+Municipal
+Corporation/
+Metropolitan
+Regional
+Authority
+Municipal Corporation/
+Metropolitan Regional
+Collector/Municipal
+Corporation/Nagar
+Municipal
+Corporation/ Nagar
+Municipal
+Corporation/
+Municipal Corporation/
+Hyderabad Municipal Corporation
+Committee
+Fellow Programme in Management: Conduct and Admission
+Procedure
+Science/Biological Science/Pure Science/Commerce/Humanities with FIRST CLASS shall be considered
+for admission to Fellow programme.
+Master\222s Degree before 30th September of the year of admission. The admission of these candidates
+Admission to the Fellow Programme shall normally be made once a year, coinciding with that of
+Application Procedure
+Communication shall be sent only to the selected candidates. The Institution shall not entertain any
+ANNEXURE-15
+Selection Criteria
+shall be on the basis of the following criteria:
+queries or correspondence in respect of those not selected.
+Standards.
+Institution. All Guides shall be internal. In exceptional cases, where external guidance shall be
+required, recognized Guides from reputed Institutions shall be allowed as co-guides with the
+assigned a maximum of 2 candidates in each admission year.
+In Case of temporary absence of a Guide for a period of more than one year a new Guide shall be
+nominated for the Fellow Candidates. In case of a Guide who has guided for more than a year, he/
+return. If the period of absence is more than 2 years he/she shall cease to be a Guide for the Fellow
+Change of a Guide shall be permitted in exceptional circumstances on the recommendation of the
+Director.
+Number of Research Fellows per Guide
+to the Director for concurrence.
+she shall be allowed to resume the guidance after his/ her return from t\emporary absence.
+candidate.
+Change of Guide
+required to be earned as prescribed below
+Credit Requirement
+Particular
+Total Credits
+Seminar. If he/ she still does not pass in the Course/ Seminar, he/ she shall be terminated from the
+Fellow Programme.
+Pre-registration Seminar
+Programme. In case the research scholar fails to defend his/her Thesis proposal successfully, he/she
+case he or she fails to defend it in the second time, the research scholar shall be terminated from the
+Programme.
+Code No.
+Course Title
+Credits
+Module 1
+FP01
+Research Methodology
+FP02
+Managerial Statistics
+FP03
+General Management
+FP04
+System Approach to Management
+Module 2
+FP05
+FP06
+Module 3
+FP07
+FP08
+Details of Courses and Seminar
+Duration for earning Credit
+Director of the Institution.
+Credit Course Requirement
+credits in the third module together adding up to 30 credits in all.
+Grading System of Credit Courses/Seminar
+A candidate must apply for formal registration within one month after successful completion of the
+pre-registration Seminar. The application for registration to be made in a prescribed form and shall
+Registration Fee of Rs. 2500/-
+A Candidate shall submit his/ her Thesis only after a minimum period of two years after registration.
+admission to the Programme.
+If a candidate fails to submit the Thesis within the prescribed upper time limit due to reasons beyond
+minimum period of 2 years stipulated for submission of Thesis but shall be counted in the maximum
+Pre-Synopsis Seminar
+The procedure for the pre-Synopsis Seminar is as follows:
+the focus and the summary of the Thesis. Highlighting his/ her own contribution, details of the
+methodology, results, analysis, conclusions, limitations and scope for future research. It is to be
+Application for registration
+be accompanied by the following:
+Time Limit
+of two years beyond which no extension shall be permitted.
+period of 5 years permissible for submission of the Thesis.
+Submission of the Synopsis
+On receipt of Synopsis, the Director shall draw up a list of 6 possible examiners of the Thesis in con
+The Thesis shall be submitted in six type written/ printed copies and a soft copy with necessary
+for the award of Fellow in Management : and
+consideration for the award of the Fellow in Management.
+examination and open defense at which the candidate shall be required to defend his/ her Thesis. The
+Professor of the Institution nominated by the Director
+Submission of Thesis
+embodied in the Thesis.
+panel of examiners shall consist of:
+Board, the Institution shall award \223Fellow in Management\224 to the Research scholar. The title of the Thesis
+in research shall render the candidate terminated from the Programme.
+The candidate shall pay all the prescribed Fee as and when they fall due.
+The Courses prescribed, but not successfully completed by the candidate shall be reconsidered by
+iii.
+such changes shall be binding on the research scholar in the Institution\.
+President, Indian Institute of Metals
+Director, Institution of Applied Manpower Research, New Delhi Director General, \Indian
+ANNEXURE-16
+Composition
+Quorum
+1/ 3 members
+India
+Council of Agricultural Research, New Delhi
+Architecture or Professor/ Associate Professor of Planning
+Composition
+Quorum
+1/ 3 members
+Three Chairman of the Board of Studies
+be nominated by the Chairman of the Council
+Composition
+An Architect registered with Council of Architecture
+Composition
+Composition
+Importance.
+Composition
+SAC.
+Composition
+Quorum
+\225 Retired Judge of a High Court.
+Chairman
+The Council
+Scrutiny Committee
+Committee while considering the appeals of Institutions
+Standing Complaint Scrutiny
+The Registered Trust/ Society/ Company shall nominate six members including the Chairman and the Member
+Society/Company.
+Member Secretary.
+ANNEXURE-17
+Name and address of the Trust/Society/Company and the Trustees
+Programmes
+Name of Programmes Accredited by NBA
+ANNEXURE-18
+Mandatory Disclosures
+18.1 Name of the Institution
+18.2
+Organizational chart
+18.6
+iii.
+Status of Accreditation of the Courses
+Name
+Programme Focus
+Admission Procedure
+Faculty
+Course/Branch wise list Faculty members:
+Permanent Faculty
+Number of seats
+Duration
+Address
+xii.
+Number of seats
+xiii.
+18.7
+number admitted
+Admission Procedure
+Mention the admission test being followed, name and address of theTest Agency/State Admission
+Name
+Date of Birth
+Research/ Industry/ Others
+No. of papers published in National/International Journals/Conferences
+18.9
+Number of scholarship offered by the Institution, duration and amount
+18.10
+Admission
+18.11
+examination etc.
+list candidate
+Number of Tutorial rooms and size of each
+Number of Laboratories and size of each
+iii.
+Calendar for admission against Management quota seats:
+Starting of the Academic session
+test for the last three years
+18.13
+List of Applicants
+Number of Class Rooms and size of each
+iii.
+Hostel Facilities
+w.r.t the courses in the website
+Games and Sports Facilities
+Teaching Learning Process
+List of online National/International Journals subscribed
+xix.
+xxii.
+Title of the Course
+Important Instructions:
+restrictions.
+I/we, <Name>, Chairperson/ Secretary, <Name of the Trust/ Society/ Company>, son/ daughter of \205.., aged\205..,
+That the new login credentials are to be sent to <Name of the Person>, <Address>, <Landline No>,
+NOTE:
+Judicial Magistrate or Notary or an Oath Commissioner.
+AFFIDAVIT-1
+I/we, <Name>, Chairperson/ Secretary, <Name of the Trust/ Society/ Company>, son/ daughter of \205.., aged\205..,
+Programmes/ Courses
+AFFIDAVIT-2
+to disclose all the information and/ or suppress any information and/ or\ misrepresent the information, the
+Name of the Institution
+offered
+Registration
+Total area in Acre
+Room No.
+Room type
+Room/
+Toilet, etc.\
+of Walls and
+Institute is adhering with pay scale, gross pay, PF deduction and TDS as per the Central / State / local
+That liabilities, if any, arise out of Change of Site/ Location shall solely be that of <Name of Trust/ Society/
+Fellow Programme shall be strictly within the limit and shall be done on Merit b\asis and liability, if any,
+Sl. No.
+Name of the
+Deed Holder
+Document
+Date of
+Plot No.
+District
+Area in
+Acre
+\(mention Class
+Laboratory/
+Carpet area \(in
+Completion  of
+Flooring
+Completion
+painting
+Completion of
+and lighting
+NOTE:
+Judicial Magistrate or Notary or an Oath Commissioner.
+That the following Committees as per
+commencement of the Academic Session \205\205\205 in respect of<applica\tion number><Name and
+address of Institution> are
+I/we, <Name>, Chairperson/ Secretary, <Name of the Trust/ Society/ Company>, son/ daughter of \205.., aged\205..,
+That the Land measuring \205\205 Acre, on which <Name of the proposed Institution>\is located was not
+NOTE:
+Class Judicial Magistrate or Notary or an Oath Commissioner.
+AFFIDAVIT-3
+material has been concealed therefrom.
+I/we, <Name>, Chairperson/ Secretary, <Name of the Trust/ Society/ Company>, son/ daughter of \205..,
+That Trust/ Society/ Company has submitted/ uploaded all the additional documents/ information regarding
+NOTE:
+Judicial Magistrate or Notary or an Oath Commissioner.
+AFFIDAVIT-4
+material has been concealed therefrom.
+Details of RPGF/
+Joint FDR/ RTGS
+Board for the
+establishment of
+the Institution
+I/we, <Name>, Chairperson/ Secretary, <Name of the Trust/ Society/ Company>, son/ daughter of \205.., aged\205..,
+NOTE:
+Judicial Magistrate or Notary or an Oath Commissioner.
+AFFIDAVIT-5
+complete. Nothing is false and no information/ material has been conceal\ed.
+NOTE:
+Judicial Magistrate or Notary or an Oath Commissioner.
+AFFIDAVIT-6
+time being in forcwe relating to transfer of Property/ Building to or by Companies, Associations or bodies of
+That there are no legal issues pending with regard to this property befo\re any court of Law hampering the
+That both the Lessor and Lessee shall abide by the Local Municipal Laws and other Laws of the Land relating
+That henceforth, the Lessee shall be liable to pay all the taxes of this Property/ Building under the different
+NOTE:
+Judicial Magistrate or Notary or an Oath Commissioner.
+AFFIDAVIT-7
+no material has been concealed therefrom.
+I/we, <Name>, Chairperson/ Secretary, <Name of the Trust/ Society/ Company>, son/ daughter of \205.., aged\205..,
+NOTE:
+Judicial Magistrate or Notary or an Oath Commissioner.
+AFFIDAVIT-8
+material has been concealed therefrom.
+I/we, <Name>, Chairperson/ Secretary, <Name of the Trust/ Society/ Company>, son/ daughter of \205.., aged\205..,
+NOTE:
+Judicial Magistrate or Notary or an Oath Commissioner.
+AFFIDAVIT-9
+material has been concealed therefrom.
+I/we, <Name>, Chairperson/ Secretary, <Name of the Trust/ Society/ Company>, son/ daughter of \205.., aged\205..,
+That there is no commercial or business angle for change of <Name of the\ old Trust/ Society/ Company>
+That liabilities, if any, arise out of change of Name of the Trust/ Society/ Company shall be solely that of
+NOTE:
+Judicial Magistrate or Notary or an Oath Commissioner.
+AFFIDAVIT-10
+material has been concealed therefrom.
+I/we, <Name>, Chairperson/ Secretary, <Name of the Trust/ Society/ Company>, son/ daughter of \205..,
+That the students admitted under the Twinning Programme will spend at least one Semester for the two
+That admission to Collaboration and Twinning Programme shall be strictly within the limit and shall be done
+on Merit basis and liability, if any, arise out of the same shall solely be that of<Name of the Trust/ Society/
+NOTE:
+Judicial Magistrate or Notary or an Oath Commissioner.
+AFFIDAVIT-11
+That the Degree/Diploma and post Diploma awarded to the students in Indi\a shall be recognized in the
+material has been concealed therefrom.
+NOTE:
+Judicial Magistrate or Notary or an Oath Commissioner.
+AFFIDAVIT-12
+material has been concealed therefrom.
+Learning Mode]
+I/we, <Name>, Chairperson/ Secretary, <Name of the Trust/ Society/ Company>, son/ daughter of \205.., aged\205..,
+liabilities, arising out, if any shall be solely of the Trust/ Society/ Company/Institution.
+Programmes/Courses
+AFFIDAVIT-13
+ment of the Academic Session\205\205 in respect of <application number><\Name and address of Institution>
+Name of the Institution
+offered
+or Not
+NOTE:
+Class  Judicial Magistrate or Notary or an Oath Commissioner.
+Institution applied for Closure of the Institution for starting of a new\ Technical Institution in the same
+Company> at <address> to <Name of the new Trust/ Society/ Company > at<address>
+Institution for starting of a new Technical Institution in the same premises in the same year
+Company> at <address> to <Name of the new Trust/ Society/ Company > at<address>
+Liabilities, if any, on this count shall be the sole responsibility of the Applicant of the Trust/ Society/ Company
+FORMAT-1
+premises in the same year
+Company Name \205.. Address as at \205..
+<Name of the Institution> at <address>.
+and shall be settled as per the rules and Regulations as applicable.
+Authorized Signatory
+Institution applied for Closure of the Institution for starting of a new\ Technical Institution in the same
+<address>, under the same Trust/ Society/ Company operating in the same Campus
+Change in the Name of the Institution from <Name of the Institution>at<address> to <Name of
+new Trust> at<address>
+Institution applied for Closure of the Institution for starting of a new\ Technical Institution in the same
+FORMAT-2
+premises in the same year
+Closure of the Institution
+xii.
+the Institution> at <address>
+Society/ Company Name \205.. Address as at \205..
+premises in the same year
+under the same Trust/ Society/ Company operating in the same Campus/City
+Closing of MCA Course and Introduction of MBA/ PGDM Course/ Closing of MBA/ PGDM Course and
+Current Staff strength, re-arrangements and dues, if any, shall be settled as per existing norms and Regulations
+on that behalf.
+Number of students admitted in these
+Trust> at<address>
+Liabilities if any, on this count shall be the sole responsibility of the Applicant of the Trust/Society/ Company and
+Trust> at<address>
+Introduction of MCA Course
+are trailing due to failures, etc. are mentioned in the following table:\
+Course requested for Closure
+Number of current students
+students
+Institution>at<address>
+<Name of the Institution> at <address>.
+shall be settled as per the rules and Regulations as applicable.
+Registrar/ Director
+Liabilities if any, on this count shall be the sole responsibility of the Applicant of the Trust/Society/ Company and
+<Name of the Institution> at <address>.
+shall be settled as per the rules and Regulations as applicable.
+Registrar/ Director
+Resolution of the Trust/ Society/ Company
+the Technical Institution> at <full address> required funds for creation of c\arpet and Built-up area
+Institution applied for Closure of the Institution for starting of a new\ Technical Institution in the same
+<Name of the Institution>at<address>, under the same Trust/ Society/ Company operating in the same
+Fellow Programme in Management
+FORMAT-3
+premises in the same year
+Campus
+Closure of the Institution
+<Name of the Trust/ Society/ Company>shall also allocate required funds for the creati\on of the requisite
+facilities such as procurement of\205\205Acre of Land ,additional carpet and Built-up area, appointment
+<Name of the Institution>shall apply for,
+Closure of Programme<Programme1>, <Programme2>.
+Application wrongly submitted for \205\205....... and to be changed from\ <Application for \205..>to
+< Name of the Institution>at<address>.
+same.
+By and Between <Name of the Trust/ Society/ Company> offering <Name of the Institution> represented by its
+expression, unless it be repugnant to the context or meaning thereof, shall be deemed to mean and include their
+FORMAT-4
+Agreement is entered into and executed on this \205.. day of \205.., 202\1.. at New Delhi.
+Chairman. which expression shall, where the context so admits, be deemed\ to include its successors,
+content of the Curriculum to the registered students.
+Announce the schedule of module for the calendar year.
+Conduct the modular training.
+Institution> Academic Training centres:
+The<Name of the Institution> Academic Centre shall announce and inform through its prospectus and
+The<Name of the Institution> Academic Centre will conduct appropriate Classes for the Academic content
+\225
+\225
+Register students for the modules.
+\225
+towards:
+\225
+Registration
+prescribed time.
+Fee to be charged to students:
+The <Name of the Institution> Academic Centre will collect from the student and retain with it self
+The <Name of the Institution> Academic Centre will collect the total Fee for the Programme from
+sent for training at least one month before the onset of training. Any delay in transferring the Fee
+cards to the students at least 7 days before the onset of training.
+operationalizing this agreement or for the purposes of implement tingthis agreement. The information
+determined, suspended or terminated earlier.
+General:
+Signed:
+Signed:
+Name:
+Name:
+Title:
+Title:
+Date:
+Date:
+Signature:
+Name:
+Date:
+Signature:
+Name:
+Registration
+Letter No.
+Letter dated
+appropriateness.
+CERTIFICATE-1
+Date of Registration
+Registered at
+Registered under the Act
+of <Competent Authority>.
+Sl. No.
+Name of the
+Deed Holder
+Document No.
+Survey No.
+No. and Date
+Land Area in
+Acre
+I hereby certify that:
+Issued by
+It has been issued for the full extent of Land.
+Letter No.
+Letter dated
+Letter No.
+Letter dated
+It has been issued for the full extent ofLand.
+It has been issued for the full extent of Land.
+Practicing at \205..
+I hereby certify that:
+Issued by
+Issued by
+I hereby certify that:
+Authority>.
+I hereby certify that:
+Authority>.
+Date:
+Place:
+of the Applicant> who is an Applicant for establishment of new Technical Institution<Name of the Institutions> at
+Construction of Building admeasuring with the following details has been completed in all respects as
+Room No
+Room type
+Class Room/
+Toilet, etc.\
+of Walls and
+and appropriateness.
+CERTIFICATE-2
+I hereby certify that:
+Authority>.
+Sl.  No.
+\(mention
+Laboratory/
+Carpet
+area \(in
+Completion
+of Flooring
+Completion
+painting
+Completion
+and lighting
+I hereby certify that:
+Seal/ Stamp of the Architect
+Date:
+Place:
+Receipts in respect of application submitted by<Name and address of the Applicant>who is an Applicant for
+CERTIFICATE-3
+Name of the Account Holder
+Account Number
+There are no loans or mortgage of FDRs
+Date:
+Place:
+Sl. No.
+FDR Number
+Date of Deposit
+Date of Maturity
+Amount
+Name and
+Address of Bank
+Approval Process Handbook
+2024-2027
+Approval Process Handbook
+2024-2027
+Approval Process Handbook
+2024-2027
+Approval Process Handbook
+2024-2027
+Approval Process Handbook
+2024-2027
+Approval Process Handbook
+2024-2027
