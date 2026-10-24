@@ -48,10 +48,10 @@ export default function DemoWalkthroughModal({
     },
     {
       num: 3,
-      title: 'Upload the Synthetic Documents',
-      portal: 'Document Intake Dropzone',
-      description: 'Upload the 3 official synthetic statutory documents: Land Title Deed (7.85 Acres), Fire Safety NOC, and Audited Faculty Cadre List.',
-      actionLabel: 'View Documents Workspace',
+      title: 'Pre-Scrutiny Date Detection Test (Expired vs Valid NOC)',
+      portal: 'AI Pre-Scrutiny Engine (/institution & /institution/submit)',
+      description: 'Demonstrate automated OCR date detection: compare Fire_Safety_NOC_EXPIRED.pdf (expired 14-May-2025) vs Fire_Safety_NOC_VALID.pdf (valid through 30-Jun-2027) under APH Regulation 3.4.',
+      actionLabel: 'Open Pre-Scrutiny Simulator',
       actionHref: '/institution',
       status: 'Ready'
     },

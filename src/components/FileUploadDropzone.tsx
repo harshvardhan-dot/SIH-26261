@@ -17,6 +17,8 @@ interface FileUploadDropzoneProps {
 }
 
 const sampleDocs = [
+  { name: 'Fire_Safety_NOC_EXPIRED.pdf', label: '⚠️ Demo Doc: Expired Fire Safety NOC (Date Lapsed: 14-May-2025)', url: '/docs/Fire_Safety_NOC_EXPIRED.pdf', size: '2.5 MB' },
+  { name: 'Fire_Safety_NOC_VALID.pdf', label: '✓ Demo Doc: Valid Fire Safety NOC (Valid Thru: 30-Jun-2027)', url: '/docs/Fire_Safety_NOC_VALID.pdf', size: '2.5 MB' },
   { name: 'Rectified_Fire_Safety_NOC_Renewal.pdf', label: 'Fire Safety NOC Renewal Receipt (Rectified PDF)', url: '/docs/Rectified_Fire_Safety_NOC_Renewal.pdf', size: '2.4 MB' },
   { name: 'Fire_Safety_NOC_StateDirectorate.pdf', label: 'Fire Safety NOC (Original State Directorate)', url: '/docs/Fire_Safety_NOC_StateDirectorate.pdf', size: '3.5 MB' },
   { name: 'Faculty_Aadhaar_Form16_AuditedList.pdf', label: 'Faculty Cadre & Form 16 Audited Roster', url: '/docs/Faculty_Aadhaar_Form16_AuditedList.pdf', size: '5.8 MB' },

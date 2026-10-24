@@ -33,6 +33,12 @@ interface DocumentViewerModalProps {
 export function getDemoDocUrl(docName: string): string {
   const lower = docName.toLowerCase();
   if (lower.includes('fire')) {
+    if (lower.includes('expired')) {
+      return '/docs/Fire_Safety_NOC_EXPIRED.pdf';
+    }
+    if (lower.includes('valid')) {
+      return '/docs/Fire_Safety_NOC_VALID.pdf';
+    }
     if (lower.includes('rectif') || lower.includes('renew')) {
       return '/docs/Rectified_Fire_Safety_NOC_Renewal.pdf';
     }

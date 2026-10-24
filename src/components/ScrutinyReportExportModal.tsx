@@ -270,7 +270,7 @@ export default function ScrutinyReportExportModal({
                   Fire Safety NOC Expiring (18 Days)
                 </td>
                 <td style={{ padding: '6px 8px', border: '1px solid #cbd5e1' }}>
-                  State Fire Services NOC Date: 28-Nov-2025. Expiry: 15-Nov-2026. Page 1, Dispatch Box.
+                  State Fire Services NOC Date: 12-Nov-2025. Expiry: 11-Nov-2026 (18 days remaining as of 24-Oct-2026). Page 1, Dispatch Box.
                 </td>
                 <td style={{ padding: '6px 8px', border: '1px solid #cbd5e1' }}>
                   <strong>APH 2024-27 Reg. 3.4:</strong> Mandatory continuous statutory clearance throughout academic cycle.

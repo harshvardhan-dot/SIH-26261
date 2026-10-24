@@ -4,7 +4,8 @@ import Link from 'next/link';
 import LanguageSwitcher from '@/components/LanguageSwitcher';
 import {
   Building2, UserCheck, CheckCircle2,
-  Lock, PhoneCall, BookOpen, ExternalLink, ArrowRight
+  Lock, PhoneCall, BookOpen, ExternalLink, ArrowRight,
+  Download, FileText
 } from 'lucide-react';
 import { useTranslation } from '@/lib/i18n';
 
@@ -89,6 +90,21 @@ export default function LandingPage() {
 
         <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
           <span style={{
+            background: '#f8fafc',
+            color: '#0f2942',
+            border: '1px solid #cbd5e1',
+            fontSize: '0.74rem',
+            fontWeight: 700,
+            padding: '4px 10px',
+            borderRadius: 4,
+            display: 'inline-flex',
+            alignItems: 'center',
+            gap: 5
+          }}>
+            <span>📅</span>
+            <span>24-Oct-2026</span>
+          </span>
+          <span style={{
             background: '#ecfdf5',
             color: '#166534',
             border: '1px solid #bbf7d0',
@@ -102,21 +118,21 @@ export default function LandingPage() {
         </div>
       </header>
 
-      {/* Notification Strip with Verified In-App Handbook Link */}
+      {/* Notification Strip with Official Handbook Link & Direct PDF Download */}
       <div style={{
         background: '#eff6ff',
         borderBottom: '1px solid #bfdbfe',
         padding: '8px 32px',
         display: 'flex',
         alignItems: 'center',
-        justifyContent: 'center',
+        justifyContent: 'space-between',
         flexWrap: 'wrap',
-        gap: 14,
+        gap: 12,
         fontSize: '0.78rem',
         color: '#1e40af',
         fontWeight: 500
       }}>
-        <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 8, flexWrap: 'wrap' }}>
           <span style={{
             background: '#1e40af',
             color: '#ffffff',
@@ -133,29 +149,58 @@ export default function LandingPage() {
           </span>
         </div>
 
-        <Link
-          href="/handbook"
-          style={{
-            display: 'inline-flex',
-            alignItems: 'center',
-            gap: 5,
-            padding: '3px 10px',
-            borderRadius: 4,
-            background: '#ffffff',
-            border: '1px solid #93c5fd',
-            color: '#1e40af',
-            fontWeight: 700,
-            fontSize: '0.74rem',
-            textDecoration: 'none',
-            boxShadow: '0 1px 2px rgba(0,0,0,0.04)',
-            transition: 'all 0.15s ease'
-          }}
-          title="Open AICTE Approval Process Handbook (APH 2024–27)"
-        >
-          <BookOpen size={13} style={{ color: '#1e40af' }} />
-          <span>{t('officialHandbook')}</span>
-          <ArrowRight size={12} style={{ opacity: 0.8 }} />
-        </Link>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 10, flexWrap: 'wrap' }}>
+          {/* Direct Link to Official Government PDF Handbook */}
+          <a
+            href="https://cdnbbsr.s3waas.gov.in/s35938b4d054136e5d59ada6ec9c295d7a/uploads/2025/03/2025031399.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{
+              display: 'inline-flex',
+              alignItems: 'center',
+              gap: 5,
+              padding: '4px 11px',
+              borderRadius: 4,
+              background: '#1e40af',
+              color: '#ffffff',
+              fontWeight: 700,
+              fontSize: '0.74rem',
+              textDecoration: 'none',
+              boxShadow: '0 1px 2px rgba(0,0,0,0.06)',
+              transition: 'all 0.15s ease'
+            }}
+            title="Download Official AICTE Approval Process Handbook (2024–27) PDF (4.15 MB)"
+          >
+            <Download size={13} />
+            <span>Official Handbook (PDF - 4.15 MB)</span>
+            <ExternalLink size={11} style={{ opacity: 0.8 }} />
+          </a>
+
+          {/* In-app Interactive Handbook Navigator */}
+          <Link
+            href="/handbook"
+            style={{
+              display: 'inline-flex',
+              alignItems: 'center',
+              gap: 5,
+              padding: '4px 10px',
+              borderRadius: 4,
+              background: '#ffffff',
+              border: '1px solid #93c5fd',
+              color: '#1e40af',
+              fontWeight: 700,
+              fontSize: '0.74rem',
+              textDecoration: 'none',
+              boxShadow: '0 1px 2px rgba(0,0,0,0.04)',
+              transition: 'all 0.15s ease'
+            }}
+            title="Browse Interactive Chapters & Statutory Norms (APH 2024–27)"
+          >
+            <BookOpen size={13} style={{ color: '#1e40af' }} />
+            <span>Interactive Handbook &amp; Forms</span>
+            <ArrowRight size={12} style={{ opacity: 0.8 }} />
+          </Link>
+        </div>
       </div>
 
       {/* Main Gateway Hub */}
@@ -345,6 +390,129 @@ export default function LandingPage() {
               <span>{t('councilSSOBtn')}</span>
               <ArrowRight size={14} />
             </Link>
+          </div>
+        </div>
+
+        {/* Dedicated Official Handbook Resource Showcase */}
+        <div style={{
+          width: '100%',
+          background: 'linear-gradient(135deg, #ffffff 0%, #f0f7ff 100%)',
+          border: '1px solid #bfdbfe',
+          borderLeft: '5px solid #1e40af',
+          borderRadius: 8,
+          padding: '24px 28px',
+          boxShadow: '0 2px 8px rgba(30, 64, 175, 0.06)',
+          marginBottom: 32
+        }}>
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', flexWrap: 'wrap', gap: 16 }}>
+            <div style={{ maxWidth: 680 }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: 8, marginBottom: 8 }}>
+                <span style={{
+                  background: '#1e40af',
+                  color: '#ffffff',
+                  fontSize: '0.68rem',
+                  fontWeight: 800,
+                  padding: '2px 8px',
+                  borderRadius: 4,
+                  textTransform: 'uppercase',
+                  letterSpacing: '0.04em'
+                }}>
+                  Legal Statutory Document
+                </span>
+                <span style={{ fontSize: '0.74rem', color: '#64748b', fontWeight: 600 }}>
+                  Ministry of Education • AICTE Act 1987 Section 23
+                </span>
+              </div>
+
+              <h2 style={{ fontSize: '1.25rem', fontWeight: 800, color: '#0f2942', marginBottom: 6, lineHeight: 1.3 }}>
+                AICTE Approval Process Handbook (APH 2024–25 to 2026–27)
+              </h2>
+              <p style={{ fontSize: '0.84rem', color: '#475569', lineHeight: 1.5, marginBottom: 14 }}>
+                The official regulatory handbook governing Grant of Approvals, Extensions of Approval (EoA), Student-to-Faculty Ratios (1:20 norm), Cadre Proportions (1:2:6), Land Acreage, Safety Clearances, and Scrutiny Committee evaluations for technical institutions and universities across India.
+              </p>
+
+              {/* Quick Chapter Navigation Badges */}
+              <div style={{ display: 'flex', flexWrap: 'wrap', gap: 6 }}>
+                {[
+                  'Ch I: New Institutions',
+                  'Ch II: Extension of Approval (EoA)',
+                  'Ch III: Twinning & Collab',
+                  'Ch IV: Universities',
+                  'Ch V: ODL & Online',
+                  'Ch VI: Land, FSR & Cadre Norms',
+                  'Ch VII: Penal Actions',
+                  'Annexures 1–18',
+                  'Affidavits 1–13'
+                ].map((tag) => (
+                  <span
+                    key={tag}
+                    style={{
+                      background: '#ffffff',
+                      border: '1px solid #cbd5e1',
+                      borderRadius: 12,
+                      padding: '2px 8px',
+                      fontSize: '0.7rem',
+                      fontWeight: 600,
+                      color: '#1e40af'
+                    }}
+                  >
+                    {tag}
+                  </span>
+                ))}
+              </div>
+            </div>
+
+            {/* Direct Official Links & Actions */}
+            <div style={{ display: 'flex', flexDirection: 'column', gap: 10, minWidth: 230, alignSelf: 'center' }}>
+              <a
+                href="https://cdnbbsr.s3waas.gov.in/s35938b4d054136e5d59ada6ec9c295d7a/uploads/2025/03/2025031399.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                  gap: 8,
+                  padding: '11px 16px',
+                  background: '#1e40af',
+                  color: '#ffffff',
+                  borderRadius: 6,
+                  fontSize: '0.82rem',
+                  fontWeight: 700,
+                  textDecoration: 'none',
+                  boxShadow: '0 2px 6px rgba(30, 64, 175, 0.25)',
+                  textAlign: 'center'
+                }}
+                title="Download the full official AICTE Approval Process Handbook PDF (4.15 MB)"
+              >
+                <Download size={16} />
+                <span>Download Official PDF (4.15 MB)</span>
+                <ExternalLink size={12} style={{ opacity: 0.8 }} />
+              </a>
+
+              <Link
+                href="/handbook"
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                  gap: 8,
+                  padding: '9px 16px',
+                  background: '#ffffff',
+                  border: '1px solid #93c5fd',
+                  color: '#1e40af',
+                  borderRadius: 6,
+                  fontSize: '0.8rem',
+                  fontWeight: 700,
+                  textDecoration: 'none',
+                  textAlign: 'center'
+                }}
+              >
+                <BookOpen size={15} />
+                <span>Interactive Chapter &amp; Form Guide</span>
+                <ArrowRight size={13} />
+              </Link>
+            </div>
           </div>
         </div>
 

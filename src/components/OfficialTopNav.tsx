@@ -73,6 +73,23 @@ export default function OfficialTopNav() {
 
         {/* Right: Security Pill, Language Switcher, Reset Demo, Portal Link, Officer Profile */}
         <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+          {/* Current Date Badge */}
+          <div style={{
+            display: 'flex',
+            alignItems: 'center',
+            gap: 5,
+            padding: '4px 10px',
+            borderRadius: 4,
+            background: '#f8fafc',
+            border: '1px solid #cbd5e1',
+            fontSize: '0.72rem',
+            color: '#0f172a',
+            fontWeight: 700
+          }}>
+            <span style={{ color: '#0284c7' }}>📅</span>
+            <span>24-Oct-2026</span>
+          </div>
+
           {/* Security Badge */}
           <div style={{
             display: 'flex',

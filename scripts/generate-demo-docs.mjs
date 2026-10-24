@@ -50,7 +50,7 @@ async function createFireSafetyNOC(docsDir) {
 
   y -= 25;
   page.drawText('Dispatch No: UP/FS/GBN/2025/NOC-49210', { x: 50, y, size: 10, font: fontBold, color: rgb(0.1, 0.1, 0.1) });
-  page.drawText('Date of Issue: 28-Nov-2025', { x: width - 200, y, size: 10, font: fontBold, color: rgb(0.1, 0.1, 0.1) });
+  page.drawText('Date of Issue: 12-Nov-2025', { x: width - 200, y, size: 10, font: fontBold, color: rgb(0.1, 0.1, 0.1) });
 
   y -= 30;
   // Title Box
@@ -68,7 +68,7 @@ async function createFireSafetyNOC(docsDir) {
     '   AICTE Permanent ID: 1-102938475',
     '',
     '2. The multi-storey academic, administrative, and laboratory blocks comprising Ground + 4 floors',
-    '   were inspected by the Divisional Fire Officer on 22-Nov-2025 as per the provisions of the',
+    '   were inspected by the Divisional Fire Officer on 08-Nov-2025 as per the provisions of the',
     '   National Building Code (NBC 2016 Part 4 - Fire & Life Safety) and UP Fire Prevention Act.',
     '',
     '3. Fire Fighting Equipment & Infrastructure Verified On-Site:',
@@ -80,7 +80,8 @@ async function createFireSafetyNOC(docsDir) {
     '   • Fire Alarm & Public Address System: Fully operational in all blocks.',
     '',
     '4. CONDITIONS OF VALIDITY:',
-    '   This No Objection Certificate is valid for ONE YEAR from date of issue, expiring on 15-Nov-2026.',
+    '   This No Objection Certificate is valid for ONE YEAR from date of issue, expiring on 11-Nov-2026.',
+    '   (Note: As of 24-Oct-2026, certificate has 18 days remaining validity and requires renewal receipt).',
     '   The institutional management must apply for annual renewal at least 30 days prior to expiry.',
     '   All fire exit passages and emergency staircases must remain clear of any obstructions at all times.',
   ];
@@ -377,14 +378,14 @@ async function createRectifiedFireSafetyReceipt(docsDir) {
 
   y -= 25;
   page.drawText('Receipt Ref: UP/FIRE/RNW/2026/894109', { x: 50, y, size: 10, font: fontBold });
-  page.drawText('Filing Date: 22-Oct-2026 14:22 IST', { x: width - 220, y, size: 10, font: fontBold });
+  page.drawText('Filing Date: 24-Oct-2026 11:30 IST', { x: width - 220, y, size: 10, font: fontBold });
 
   y -= 30;
   page.drawRectangle({ x: 45, y: y - 100, width: width - 90, height: 110, color: rgb(0.97, 0.99, 0.97), borderWidth: 1, borderColor: rgb(0.7, 0.9, 0.7) });
   page.drawText('INSTITUTIONAL APPLICATION DETAILS:', { x: 55, y: y - 5, size: 9, font: fontBold, color: rgb(0.1, 0.5, 0.2) });
   page.drawText('Applicant: Apex Institute of Technology & Management (PID: 1-102938475)', { x: 55, y: y - 20, size: 8.5, font: fontRegular });
-  page.drawText('Existing NOC No: UP/FS/GBN/2025/NOC-49210 (Expiring 15-Nov-2026)', { x: 55, y: y - 35, size: 8.5, font: fontRegular });
-  page.drawText('Renewal Fee Remitted: Rs. 15,000/- (SBI E-Pay Transaction ID: 26102289410)', { x: 55, y: y - 50, size: 8.5, font: fontRegular });
+  page.drawText('Existing NOC No: UP/FS/GBN/2025/NOC-49210 (Expiring 11-Nov-2026)', { x: 55, y: y - 35, size: 8.5, font: fontRegular });
+  page.drawText('Renewal Fee Remitted: Rs. 15,000/- (SBI E-Pay Transaction ID: 26102489410)', { x: 55, y: y - 50, size: 8.5, font: fontRegular });
   page.drawText('Scheduled Joint Inspection Date: 28-Oct-2026 (Assigned Officer: DFO Zone 2)', { x: 55, y: y - 65, size: 8.5, font: fontBold, color: rgb(0.1, 0.4, 0.7) });
   page.drawText('Status: In Progress - Renewal Undertaking Valid under APH Clause 4.6', { x: 55, y: y - 80, size: 8.5, font: fontBold, color: rgb(0.1, 0.5, 0.2) });
 
@@ -408,7 +409,7 @@ async function createRectifiedFireSafetyReceipt(docsDir) {
 
   y -= 40;
   page.drawText('Principal & Secretary, Apex Educational Trust', { x: 50, y, size: 8.5, font: fontBold });
-  page.drawText('DSC Endorsed: 22-Oct-2026', { x: 50, y: y - 12, size: 8, font: fontRegular, color: rgb(0.4, 0.4, 0.4) });
+  page.drawText('DSC Endorsed: 24-Oct-2026', { x: 50, y: y - 12, size: 8, font: fontRegular, color: rgb(0.4, 0.4, 0.4) });
 
   const pdfBytes = await pdfDoc.save();
   fs.writeFileSync(path.join(docsDir, 'Rectified_Fire_Safety_NOC_Renewal.pdf'), pdfBytes);

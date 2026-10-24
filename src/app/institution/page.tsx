@@ -8,7 +8,7 @@ import {
   Upload, ArrowRight, ShieldCheck, FileCheck, RefreshCw,
   Info, ChevronRight, Download, Send, Globe, LogOut,
   AlertCircle, Calendar, Check, X, Eye, Shield, HelpCircle,
-  ExternalLink, Layers, Scale, Sparkles, MapPin, Plus, Radio
+  ExternalLink, Layers, Scale, Sparkles, MapPin, Plus, Radio, BookOpen
 } from 'lucide-react';
 import LanguageSwitcher from '@/components/LanguageSwitcher';
 import { useTranslation } from '@/lib/i18n';
@@ -121,7 +121,7 @@ const mockActiveApplications: ActiveApplication[] = [
         authorityMatch: 'State Fire Services Portal',
         status: 'action_required',
         statusLabel: '⚠ Action Required: Expiry Imminent',
-        actionNote: 'Expires in 18 days; renewal receipt required'
+        actionNote: 'Expires on 11-Nov-2026 (18 days remaining as of 24-Oct-2026); renewal receipt required'
       },
       {
         id: 'doc-003',
@@ -384,6 +384,11 @@ export default function InstitutionPortalPage() {
     }
   }, [userDocs]);
 
+  // Pre-Scrutiny Date Detection Simulator Modal
+  const [preScrutinySimModalOpen, setPreScrutinySimModalOpen] = useState(false);
+  const [simDocType, setSimDocType] = useState<'expired' | 'valid'>('expired');
+  const [simScanning, setSimScanning] = useState(false);
+
   // Self Scrutiny
   const [analyzing, setAnalyzing] = useState(false);
 
@@ -554,12 +559,7 @@ export default function InstitutionPortalPage() {
   }, 0);
 
   const runSelfScrutiny = () => {
-    setAnalyzing(true);
-    setTimeout(() => {
-      setAnalyzing(false);
-      setSuccessToast('Automated pre-scrutiny rules re-evaluated successfully.');
-      setTimeout(() => setSuccessToast(null), 3000);
-    }, 1200);
+    setPreScrutinySimModalOpen(true);
   };
 
   const handleOpenActionModal = (action: ApplicationAction) => {
@@ -659,6 +659,10 @@ export default function InstitutionPortalPage() {
               Apex Institute of Technology & Management
               <span className="badge badge-info" style={{ fontSize: '0.68rem', padding: '2px 8px' }}>
                 AICTE PID: 1-102938475
+              </span>
+              <span style={{ fontSize: '0.68rem', padding: '2px 8px', borderRadius: 4, background: '#f8fafc', color: '#0f2942', fontWeight: 700, border: '1px solid #cbd5e1', display: 'inline-flex', alignItems: 'center', gap: 4 }}>
+                <span>📅</span>
+                <span>24-Oct-2026</span>
               </span>
             </div>
             <div style={{ fontSize: '0.75rem', color: '#64748b' }}>
@@ -981,6 +985,15 @@ export default function InstitutionPortalPage() {
               </div>
               <button
                 className="btn btn-secondary btn-sm"
+                onClick={() => setPreScrutinySimModalOpen(true)}
+                style={{ fontSize: '0.74rem', gap: 6, background: '#eff6ff', border: '1px solid #93c5fd', color: '#1e40af', fontWeight: 700 }}
+                title="Launch Pre-Scrutiny Date Detection Demo"
+              >
+                <Sparkles size={14} style={{ color: '#d97706' }} />
+                Pre-Scrutiny Date Demo
+              </button>
+              <button
+                className="btn btn-secondary btn-sm"
                 onClick={runSelfScrutiny}
                 disabled={analyzing}
               >
@@ -1007,11 +1020,11 @@ export default function InstitutionPortalPage() {
               gap: 8
             }}>
               {[
-                { step: 1, label: '1. Submission Acknowledged' },
-                { step: 2, label: '2. AI Pre-Scrutiny & Provenance' },
-                { step: 3, label: '3. Scrutiny Committee (EVC)' },
-                { step: 4, label: '4. Appellate / Hearing' },
-                { step: 5, label: '5. Council EoA / LoA Issuance' },
+                { step: 1, label: '1. Online Application (Ch I/II)' },
+                { step: 2, label: '2. Scrutiny Committee (Cl 2.23.1)' },
+                { step: 3, label: '3. Expert Visit (EVC / Virtual)' },
+                { step: 4, label: '4. Standing Hearing / Appellate' },
+                { step: 5, label: '5. Council EoA / Approval' },
               ].map(s => {
                 const isCurrent = activeApp.currentStage === s.step;
                 const isPast = activeApp.currentStage > s.step;
@@ -1033,6 +1046,158 @@ export default function InstitutionPortalPage() {
                   </div>
                 );
               })}
+            </div>
+          </div>
+
+          {/* Interactive Pre-Scrutiny Date Detection Demonstration Panel */}
+          <div style={{
+            background: '#ffffff',
+            border: '1.5px solid #bfdbfe',
+            borderRadius: 8,
+            padding: '16px 20px',
+            marginBottom: 24,
+            boxShadow: '0 1px 3px rgba(0,0,0,0.03)'
+          }}>
+            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 12, flexWrap: 'wrap', gap: 8 }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+                <Sparkles size={18} style={{ color: '#d97706' }} />
+                <div>
+                  <div style={{ fontSize: '0.9rem', fontWeight: 800, color: '#0f2942' }}>
+                    Interactive Demonstration: AI Pre-Scrutiny Date Expiry Detection
+                  </div>
+                  <div style={{ fontSize: '0.74rem', color: '#64748b' }}>
+                    Test the automated regulatory engine comparing an expired statutory certificate vs an unbroken valid certificate under APH Regulation 3.4.
+                  </div>
+                </div>
+              </div>
+              <div style={{ display: 'flex', gap: 8 }}>
+                <button
+                  type="button"
+                  onClick={() => setPreScrutinySimModalOpen(true)}
+                  className="btn btn-secondary btn-sm"
+                  style={{ fontSize: '0.74rem', background: '#eff6ff', border: '1px solid #93c5fd', color: '#1e40af', fontWeight: 700 }}
+                >
+                  <Sparkles size={13} style={{ color: '#d97706' }} /> Open Pre-Scrutiny Simulator Modal
+                </button>
+              </div>
+            </div>
+
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))', gap: 12 }}>
+              {/* Expired Doc Test Tile */}
+              <div style={{
+                background: '#fff5f5',
+                border: '1.5px solid #fecaca',
+                borderRadius: 6,
+                padding: '14px 16px'
+              }}>
+                <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 6 }}>
+                  <span style={{ fontSize: '0.8rem', fontWeight: 800, color: '#b91c1c', display: 'flex', alignItems: 'center', gap: 6 }}>
+                    <AlertTriangle size={15} style={{ color: '#dc2626' }} />
+                    Demo Doc 1: Date Expired Certificate
+                  </span>
+                  <span className="badge badge-danger" style={{ fontSize: '0.62rem', padding: '2px 6px' }}>Deficient</span>
+                </div>
+                <div style={{ fontSize: '0.74rem', fontFamily: 'monospace', color: '#475569', marginBottom: 6 }}>
+                  Fire_Safety_NOC_EXPIRED.pdf
+                </div>
+                <div style={{ fontSize: '0.72rem', color: '#991b1b', marginBottom: 10, lineHeight: 1.45 }}>
+                  • Extracted Dates: Issued 15-May-2024 • <strong>Expired 14-May-2025</strong><br />
+                  • AI Pre-Scrutiny Check: <strong>LAPSED (500+ Days Overdue)</strong><br />
+                  • Violation: APH Regulation 3.4 (Unbroken AY 2026-27 Coverage Mandate)
+                </div>
+                <div style={{ display: 'flex', gap: 8 }}>
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setSelectedDocToView({
+                        name: 'Fire_Safety_NOC_EXPIRED.pdf',
+                        url: '/docs/Fire_Safety_NOC_EXPIRED.pdf',
+                        category: 'Safety & Compliance',
+                        tier: 4,
+                        issuer: 'Directorate of Fire & Emergency Services, UP',
+                        statusLabel: '⚠ Lapsed Certificate (Expired 14-May-2025)',
+                        isFlagged: true,
+                        flagReason: 'Certificate expired on 14-May-2025. Non-compliant with APH Regulation 3.4.'
+                      });
+                    }}
+                    className="btn btn-secondary btn-sm"
+                    style={{ fontSize: '0.7rem', padding: '3px 8px', background: '#ffffff' }}
+                  >
+                    <Eye size={12} /> View Expired PDF
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setSimDocType('expired');
+                      setPreScrutinySimModalOpen(true);
+                    }}
+                    className="btn btn-secondary btn-sm"
+                    style={{ fontSize: '0.7rem', padding: '3px 8px', background: '#fee2e2', border: '1px solid #fca5a5', color: '#991b1b', fontWeight: 600 }}
+                  >
+                    Test Scan
+                  </button>
+                </div>
+              </div>
+
+              {/* Valid Doc Test Tile */}
+              <div style={{
+                background: '#f0fdf4',
+                border: '1.5px solid #bbf7d0',
+                borderRadius: 6,
+                padding: '14px 16px'
+              }}>
+                <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 6 }}>
+                  <span style={{ fontSize: '0.8rem', fontWeight: 800, color: '#15803d', display: 'flex', alignItems: 'center', gap: 6 }}>
+                    <CheckCircle size={15} style={{ color: '#16a34a' }} />
+                    Demo Doc 2: Correct &amp; Valid Certificate
+                  </span>
+                  <span className="badge badge-success" style={{ fontSize: '0.62rem', padding: '2px 6px' }}>Compliant</span>
+                </div>
+                <div style={{ fontSize: '0.74rem', fontFamily: 'monospace', color: '#475569', marginBottom: 6 }}>
+                  Fire_Safety_NOC_VALID.pdf
+                </div>
+                <div style={{ fontSize: '0.72rem', color: '#166534', marginBottom: 10, lineHeight: 1.45 }}>
+                  • Extracted Dates: Issued 24-Oct-2026 • <strong>Valid to 30-Jun-2027</strong><br />
+                  • AI Pre-Scrutiny Check: <strong>PASSED (Full AY 2026-27 Coverage)</strong><br />
+                  • Status: Tier 1 Cryptographic Token Verified &amp; Council Compliant
+                </div>
+                <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setSelectedDocToView({
+                        name: 'Fire_Safety_NOC_VALID.pdf',
+                        url: '/docs/Fire_Safety_NOC_VALID.pdf',
+                        category: 'Safety & Compliance',
+                        tier: 1,
+                        issuer: 'Directorate of Fire & Emergency Services, UP',
+                        statusLabel: '✓ Valid Certificate (Expires 30-Jun-2027)',
+                        isFlagged: false
+                      });
+                    }}
+                    className="btn btn-secondary btn-sm"
+                    style={{ fontSize: '0.7rem', padding: '3px 8px', background: '#ffffff' }}
+                  >
+                    <Eye size={12} /> View Valid PDF
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => {
+                      resolveNoticeByCollege(
+                        'NOT-1029',
+                        'Fire_Safety_NOC_VALID.pdf',
+                        'Uploaded valid Fire Safety NOC (UP/FS/GBN/2026/NOC-VAL-98421) valid through 30-Jun-2027.'
+                      );
+                      setSuccessToast('Valid document Fire_Safety_NOC_VALID.pdf applied! Active deficiency cleared and transmitted to Scrutiny Committee.');
+                      setTimeout(() => setSuccessToast(null), 5000);
+                    }}
+                    className="btn btn-sm"
+                    style={{ fontSize: '0.7rem', padding: '3px 10px', background: '#15803d', color: '#ffffff', fontWeight: 700 }}
+                  >
+                    <Check size={12} /> Resolve Deficiency with This Doc
+                  </button>
+                </div>
+              </div>
             </div>
           </div>
 
@@ -1526,6 +1691,355 @@ export default function InstitutionPortalPage() {
                 </button>
               </div>
             </form>
+          </div>
+        </div>
+      )}
+
+      {/* AI Pre-Scrutiny Date Detection Simulator Modal */}
+      {preScrutinySimModalOpen && (
+        <div style={{
+          position: 'fixed',
+          top: 0,
+          left: 0,
+          right: 0,
+          bottom: 0,
+          background: 'rgba(15, 23, 42, 0.75)',
+          backdropFilter: 'blur(5px)',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          zIndex: 2000,
+          padding: 20
+        }}>
+          <div style={{
+            background: '#ffffff',
+            borderRadius: 10,
+            maxWidth: 880,
+            width: '100%',
+            maxHeight: '92vh',
+            display: 'flex',
+            flexDirection: 'column',
+            boxShadow: '0 25px 50px -12px rgba(0, 0, 0, 0.25)',
+            overflow: 'hidden',
+            border: '1px solid #cbd5e1'
+          }}>
+            {/* Modal Header */}
+            <div style={{
+              padding: '16px 24px',
+              borderBottom: '1px solid #e2e8f0',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'space-between',
+              background: '#0f2942',
+              color: '#ffffff'
+            }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+                <Sparkles size={20} style={{ color: '#f59e0b' }} />
+                <div>
+                  <div style={{ fontSize: '1rem', fontWeight: 800 }}>
+                    AI Pre-Scrutiny Engine — Statutory Date Verification Test
+                  </div>
+                  <div style={{ fontSize: '0.72rem', color: '#94a3b8' }}>
+                    Approval Process Handbook (APH 2024–27 Regulation 3.4) Date Validity Simulator
+                  </div>
+                </div>
+              </div>
+              <button
+                type="button"
+                onClick={() => setPreScrutinySimModalOpen(false)}
+                style={{
+                  background: 'transparent',
+                  border: 'none',
+                  color: '#94a3b8',
+                  cursor: 'pointer',
+                  padding: 4
+                }}
+              >
+                <X size={20} />
+              </button>
+            </div>
+
+            {/* Modal Content */}
+            <div style={{ padding: '20px 24px', overflowY: 'auto', flex: 1 }}>
+              <p style={{ fontSize: '0.82rem', color: '#475569', lineHeight: 1.55, margin: '0 0 16px 0' }}>
+                This demonstration tests the Council's automated OCR and regulatory pipeline on two synthetic documents: one with a <strong>lapsed/expired date</strong> and one with <strong>unbroken valid coverage</strong>. Switch between documents below to inspect how the AI detects statutory defects before submission:
+              </p>
+
+              {/* Two Document Selector Tabs */}
+              <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 12, marginBottom: 16 }}>
+                {/* Expired Doc Tab */}
+                <div
+                  onClick={() => {
+                    setSimDocType('expired');
+                    setSimScanning(true);
+                    setTimeout(() => setSimScanning(false), 500);
+                  }}
+                  style={{
+                    padding: '14px 16px',
+                    borderRadius: 8,
+                    background: simDocType === 'expired' ? '#fef2f2' : '#ffffff',
+                    border: `2px solid ${simDocType === 'expired' ? '#ef4444' : '#e2e8f0'}`,
+                    cursor: 'pointer',
+                    transition: 'all 0.15s ease'
+                  }}
+                >
+                  <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 6 }}>
+                    <span style={{ fontSize: '0.84rem', fontWeight: 800, color: '#b91c1c', display: 'flex', alignItems: 'center', gap: 6 }}>
+                      <AlertTriangle size={16} style={{ color: '#dc2626' }} />
+                      Demo Doc A: Date Expired
+                    </span>
+                    <span className="badge badge-danger" style={{ fontSize: '0.64rem', padding: '2px 7px' }}>
+                      {simDocType === 'expired' ? 'Testing Active' : 'Select'}
+                    </span>
+                  </div>
+                  <div style={{ fontSize: '0.76rem', fontFamily: 'monospace', color: '#1e293b', fontWeight: 600 }}>
+                    Fire_Safety_NOC_EXPIRED.pdf
+                  </div>
+                  <div style={{ fontSize: '0.72rem', color: '#b91c1c', marginTop: 4 }}>
+                    Issued: 15-May-2024 • <strong>Expired: 14-May-2025</strong> (Lapsed)
+                  </div>
+                </div>
+
+                {/* Valid Doc Tab */}
+                <div
+                  onClick={() => {
+                    setSimDocType('valid');
+                    setSimScanning(true);
+                    setTimeout(() => setSimScanning(false), 500);
+                  }}
+                  style={{
+                    padding: '14px 16px',
+                    borderRadius: 8,
+                    background: simDocType === 'valid' ? '#f0fdf4' : '#ffffff',
+                    border: `2px solid ${simDocType === 'valid' ? '#22c55e' : '#e2e8f0'}`,
+                    cursor: 'pointer',
+                    transition: 'all 0.15s ease'
+                  }}
+                >
+                  <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 6 }}>
+                    <span style={{ fontSize: '0.84rem', fontWeight: 800, color: '#15803d', display: 'flex', alignItems: 'center', gap: 6 }}>
+                      <CheckCircle size={16} style={{ color: '#16a34a' }} />
+                      Demo Doc B: Valid &amp; Correct
+                    </span>
+                    <span className="badge badge-success" style={{ fontSize: '0.64rem', padding: '2px 7px' }}>
+                      {simDocType === 'valid' ? 'Testing Active' : 'Select'}
+                    </span>
+                  </div>
+                  <div style={{ fontSize: '0.76rem', fontFamily: 'monospace', color: '#1e293b', fontWeight: 600 }}>
+                    Fire_Safety_NOC_VALID.pdf
+                  </div>
+                  <div style={{ fontSize: '0.72rem', color: '#15803d', marginTop: 4 }}>
+                    Issued: 10-Oct-2026 • <strong>Valid Thru: 30-Jun-2027</strong> (Compliant)
+                  </div>
+                </div>
+              </div>
+
+              {/* Real-time OCR & Regulatory Pipeline Output Card */}
+              {simScanning ? (
+                <div style={{
+                  background: '#f8fafc',
+                  border: '1px solid #cbd5e1',
+                  borderRadius: 8,
+                  padding: '30px 20px',
+                  textAlign: 'center'
+                }}>
+                  <div className="spinner" style={{ margin: '0 auto 12px', width: 28, height: 28 }} />
+                  <div style={{ fontSize: '0.85rem', fontWeight: 700, color: '#0f2942' }}>
+                    Scanning Document with Multimodal OCR &amp; Temporal Analysis Engine...
+                  </div>
+                  <div style={{ fontSize: '0.72rem', color: '#64748b', marginTop: 4 }}>
+                    Extracting issue stamps, digital seal signatures, and testing cutoff dates against Academic Year 2026-27 norms...
+                  </div>
+                </div>
+              ) : simDocType === 'expired' ? (
+                <div style={{
+                  background: '#fff5f5',
+                  border: '1.5px solid #fca5a5',
+                  borderRadius: 8,
+                  padding: '18px 20px'
+                }}>
+                  <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 12, flexWrap: 'wrap', gap: 8 }}>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+                      <AlertCircle size={20} style={{ color: '#dc2626' }} />
+                      <div>
+                        <div style={{ fontSize: '0.9rem', fontWeight: 800, color: '#991b1b' }}>
+                          AI PRE-SCRUTINY VERDICT: STATUTORY DEFECT (LAPSED DOCUMENT)
+                        </div>
+                        <div style={{ fontSize: '0.72rem', color: '#b91c1c' }}>
+                          Severity: Critical (Non-Compliant under APH Regulation 3.4 &amp; Appendix 3)
+                        </div>
+                      </div>
+                    </div>
+                    <button
+                      type="button"
+                      className="btn btn-secondary btn-sm"
+                      onClick={() => setSelectedDocToView({
+                        name: 'Fire_Safety_NOC_EXPIRED.pdf',
+                        url: '/docs/Fire_Safety_NOC_EXPIRED.pdf',
+                        category: 'Safety & Compliance',
+                        tier: 4,
+                        issuer: 'Directorate of Fire & Emergency Services, UP',
+                        statusLabel: '⚠ Lapsed Certificate (Expired 14-May-2025)',
+                        isFlagged: true,
+                        flagReason: 'Certificate expired on 14-May-2025. Lacks unbroken statutory coverage for AY 2026-27.'
+                      })}
+                      style={{ fontSize: '0.72rem', background: '#ffffff', gap: 4 }}
+                    >
+                      <Eye size={12} /> Inspect Expired PDF
+                    </button>
+                  </div>
+
+                  <div style={{
+                    background: '#ffffff',
+                    border: '1px solid #fecaca',
+                    borderRadius: 6,
+                    padding: '12px 16px',
+                    fontSize: '0.76rem',
+                    marginBottom: 12
+                  }}>
+                    <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: 8, marginBottom: 8 }}>
+                      <div>
+                        <span style={{ color: '#64748b' }}>Dispatch Ref No:</span> <span style={{ fontFamily: 'monospace', fontWeight: 700 }}>UP/FS/GBN/2024/NOC-EXP-31048</span>
+                      </div>
+                      <div>
+                        <span style={{ color: '#64748b' }}>Date of Issue:</span> <strong>15-May-2024</strong>
+                      </div>
+                      <div>
+                        <span style={{ color: '#64748b' }}>Extracted Expiry Date:</span> <strong style={{ color: '#dc2626' }}>14-May-2025 (528 Days Overdue)</strong>
+                      </div>
+                      <div>
+                        <span style={{ color: '#64748b' }}>AY 2026-27 Requirement:</span> <strong style={{ color: '#dc2626' }}>UNMET (Coverage Lapsed)</strong>
+                      </div>
+                    </div>
+                    <div style={{ borderTop: '1px solid #fee2e2', paddingTop: 8, color: '#7f1d1d' }}>
+                      <strong>Statutory Explanation:</strong> AICTE Approval Process Handbook (APH 2024–27 Regulation 3.4) explicitly mandates that an institution must hold continuous, unexpired safety clearance covering the full academic year. Because this certificate expired on 14-May-2025, the application is ineligible for unconditional approval.
+                    </div>
+                  </div>
+
+                  <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: 8 }}>
+                    <div style={{ fontSize: '0.75rem', color: '#991b1b', fontWeight: 600 }}>
+                      Pre-Scrutiny Score Impact: <strong>68% Readiness (Hearing Directive Required)</strong>
+                    </div>
+                    <button
+                      type="button"
+                      onClick={() => {
+                        setSimDocType('valid');
+                        setSimScanning(true);
+                        setTimeout(() => setSimScanning(false), 400);
+                      }}
+                      className="btn btn-sm"
+                      style={{ background: '#15803d', color: '#ffffff', fontSize: '0.74rem', fontWeight: 700, gap: 6 }}
+                    >
+                      <CheckCircle size={14} /> Test with Valid Document Instead
+                    </button>
+                  </div>
+                </div>
+              ) : (
+                <div style={{
+                  background: '#f0fdf4',
+                  border: '1.5px solid #86efac',
+                  borderRadius: 8,
+                  padding: '18px 20px'
+                }}>
+                  <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: 12, flexWrap: 'wrap', gap: 8 }}>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
+                      <CheckCircle size={20} style={{ color: '#16a34a' }} />
+                      <div>
+                        <div style={{ fontSize: '0.9rem', fontWeight: 800, color: '#14532d' }}>
+                          AI PRE-SCRUTINY VERDICT: STATUTORY CLEARANCE GRANTED
+                        </div>
+                        <div style={{ fontSize: '0.72rem', color: '#15803d' }}>
+                          Status: Tier 1 Cryptographic Pass (Full Coverage for Academic Year 2026-27)
+                        </div>
+                      </div>
+                    </div>
+                    <button
+                      type="button"
+                      className="btn btn-secondary btn-sm"
+                      onClick={() => setSelectedDocToView({
+                        name: 'Fire_Safety_NOC_VALID.pdf',
+                        url: '/docs/Fire_Safety_NOC_VALID.pdf',
+                        category: 'Safety & Compliance',
+                        tier: 1,
+                        issuer: 'Directorate of Fire & Emergency Services, UP',
+                        statusLabel: '✓ Valid Certificate (Expires 30-Jun-2027)',
+                        isFlagged: false
+                      })}
+                      style={{ fontSize: '0.72rem', background: '#ffffff', gap: 4 }}
+                    >
+                      <Eye size={12} /> Inspect Valid PDF
+                    </button>
+                  </div>
+
+                  <div style={{
+                    background: '#ffffff',
+                    border: '1px solid #bbf7d0',
+                    borderRadius: 6,
+                    padding: '12px 16px',
+                    fontSize: '0.76rem',
+                    marginBottom: 12
+                  }}>
+                    <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: 8, marginBottom: 8 }}>
+                      <div>
+                        <span style={{ color: '#64748b' }}>Dispatch Ref No:</span> <span style={{ fontFamily: 'monospace', fontWeight: 700 }}>UP/FS/GBN/2026/NOC-VAL-98421</span>
+                      </div>
+                      <div>
+                        <span style={{ color: '#64748b' }}>Date of Issue:</span> <strong>24-Oct-2026</strong>
+                      </div>
+                      <div>
+                        <span style={{ color: '#64748b' }}>Extracted Expiry Date:</span> <strong style={{ color: '#15803d' }}>30-Jun-2027 (Active &amp; Unbroken)</strong>
+                      </div>
+                      <div>
+                        <span style={{ color: '#64748b' }}>AY 2026-27 Requirement:</span> <strong style={{ color: '#15803d' }}>100% COMPLIANT</strong>
+                      </div>
+                    </div>
+                    <div style={{ borderTop: '1px solid #dcfce7', paddingTop: 8, color: '#14532d' }}>
+                      <strong>Statutory Explanation:</strong> Certificate covers the entire Academic Year 2026–27 up to 30-Jun-2027 without gap. Endorsed with Chief Fire Officer X.509 digital token (DSC: 2026:UPFS:DSC:VALID:77810A) and verified against National Building Code (NBC 2016 Part 4).
+                    </div>
+                  </div>
+
+                  <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: 8 }}>
+                    <div style={{ fontSize: '0.75rem', color: '#15803d', fontWeight: 600 }}>
+                      Pre-Scrutiny Score Impact: <strong>100% Readiness (Direct Approval Track)</strong>
+                    </div>
+                    <button
+                      type="button"
+                      onClick={() => {
+                        resolveNoticeByCollege(
+                          'NOT-1029',
+                          'Fire_Safety_NOC_VALID.pdf',
+                          'Uploaded valid Fire Safety NOC (UP/FS/GBN/2026/NOC-VAL-98421) valid through 30-Jun-2027.'
+                        );
+                        setPreScrutinySimModalOpen(false);
+                        setSuccessToast('Valid document Fire_Safety_NOC_VALID.pdf applied! Active deficiency cleared and transmitted to Scrutiny Committee.');
+                        setTimeout(() => setSuccessToast(null), 5000);
+                      }}
+                      className="btn btn-sm"
+                      style={{ background: '#15803d', color: '#ffffff', fontSize: '0.74rem', fontWeight: 700, gap: 6 }}
+                    >
+                      <Check size={14} /> Apply Valid Document to Active Application
+                    </button>
+                  </div>
+                </div>
+              )}
+            </div>
+
+            {/* Modal Footer */}
+            <div style={{
+              padding: '12px 24px',
+              borderTop: '1px solid #e2e8f0',
+              display: 'flex',
+              justifyContent: 'flex-end',
+              background: '#f8fafc'
+            }}>
+              <button
+                type="button"
+                className="btn btn-secondary btn-sm"
+                onClick={() => setPreScrutinySimModalOpen(false)}
+              >
+                Close Simulator
+              </button>
+            </div>
           </div>
         </div>
       )}

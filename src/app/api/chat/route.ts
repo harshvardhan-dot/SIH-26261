@@ -59,16 +59,29 @@ ACTIVE DEFICIENCIES & DEMO SCENARIOS:
    - Affiliation Order (Page 2): "SOC-MH-2018-9948" (Digit transposition error).
    - Action: Reviewer issues notice; college uploads rectified certificate.
 3. Fire Safety NOC Expiry (APH Regulation 3.4):
-   - Certificate expires in 18 days. APH mandates unbroken validity covering entire AY 2026-27.
+   - Certificate expires on 11-Nov-2026 (18 days remaining as of current operational date 24-Oct-2026). APH mandates unbroken validity covering entire AY 2026-27.
    - Action: College uploads renewal acknowledgment receipt (UPFS/2026/RN-9821).
 4. Provenance Ladder Hierarchy:
    - Tier 1: Cryptographic Proof (Digital Signature DSC, SHA-256 seal, issuer QR).
    - Tier 2: Issuing Registry Gateway (DigiLocker, State Land Revenue, AKTU API).
    - Tier 3: AICTE Historical Archives.
-   - Tier 4: Forensic Heuristics (AI visual tampering flags — screening hint for human scrutiny, not automatic rejection).)
+   - Tier 4: Forensic Heuristics (AI visual tampering flags — screening hint for human scrutiny, not automatic rejection).
+5. AI PRE-SCRUTINY TEST ENGINE (ARCHITECTURE & WORKING):
+   - Phase 1: High-Fidelity Ingestion & OCR: PDF parsing with fallback, extracting metadata, registration numbers, dates, survey/khasra numbers, built-up area, and faculty rosters.
+   - Phase 2: Multi-Tier Regulatory Rule Matrix:
+     a. Land & Built-up Norms: Acreage check against urban/rural/metro thresholds (APH Ch VI).
+     b. Building & Fire Safety: PWD Executive Engineer certificate presence (APH Ch II, Cl 2.1) and Fire NOC validity covering full AY (Regulation 3.4).
+     c. Faculty Cadre & 1:20 FSR: Intake / 20 = Required Faculty; 1:2:6 ratio for Prof : Assoc Prof : Asst Prof (APH Appendix 7).
+     d. Entity Invariance: Cross-document matching between Trust Deed, Affiliation Order, and Land Records to catch digit transpositions or alias mismatches.
+     e. Provenance Ladder Tiers: T1 (DSC cryptographic seal), T2 (Govt registry gateway), T3 (AICTE historical archive), T4 (Heuristic screening flag for human officers).
+   - Phase 3: Readiness Scoring & Disposal: Generates 0-100% compliance score; auto-qualifies clean dossiers or generates targeted deficiency directives for Scrutiny Hearing.
+6. DUPLICATE APPLICATION PREVENTION RULE (APH Chapter II, Clause 2.1):
+   - An institution cannot file or initiate a duplicate application for a category (e.g., Extension of Approval [EoA], Increase in Intake, New Course) while an earlier application in that category is active/under evaluation.
+   - The system locks the submission workflow, displays the active Application ID and stage, and instructs the college to resolve pending directives or await hearing disposal before applying again.
 
 CRITICAL INSTRUCTIONS:
 - Keep your Answers strictly very precise and short and dont answer extra more than ask or needed 
+- Official Handbook Reference: Approval Process Handbook (APH 2024–25 to 2026–27). Official PDF download URL: https://cdnbbsr.s3waas.gov.in/s35938b4d054136e5d59ada6ec9c295d7a/uploads/2025/03/2025031399.pdf (featured on the portal homepage). Provide this link whenever asked about the official handbook.
 1. Always directly and accurately answer the user's specific prompt or question. Do NOT recite boilerplate or repeat all 3 deficiencies unless specifically asked about deficiencies or issues.
 2. If the user greets (e.g. "hi", "hello", "namaste"), greet them back warmly, introduce yourself as AICTE Sahayak, and politely ask how you can assist their institution or scrutiny review today.
 3. If the user writes or asks in Hindi (or if language is 'hi'), reply in natural, fluent, professional Hindi (Devanagari script).
@@ -406,7 +419,7 @@ function synthesizeDeepReasoningResponse(
     }
     return {
       text: `**FIRE SAFETY NOC AUDIT & RENEWAL (Regulation 3.4):**\n\n` +
-        `• **Finding:** The Fire Safety NOC issued by the State Directorate of Fire Services expires in 18 days.\n` +
+        `• **Finding:** The Fire Safety NOC issued by the State Directorate of Fire Services expires on 11-Nov-2026 (18 days remaining as of current date 24-Oct-2026).\n` +
         `• **Regulation:** Under AICTE APH 2024–27 Regulation 3.4 & Appendix 3, technical institutions must maintain continuous statutory clearance without lapse throughout the academic year.\n` +
         `• **Resolution:** Go to the Institutional Workspace (/institution) -> click **"Resolve Action & Upload"** on the Fire Safety row -> attach \`Rectified_Fire_Safety_NOC_Renewal.pdf\` (Renewal Fee Receipt #UPFS/2026/RN-9821).`,
       actionHint: 'Upload: Rectified_Fire_Safety_NOC_Renewal.pdf'
@@ -500,7 +513,65 @@ function synthesizeDeepReasoningResponse(
     };
   }
 
-  // H. General / Conversational Fallback (Tailored to query, NEVER dumping static 3-bullet list!)
+  // H. AI Pre-Scrutiny Engine Architecture & How It Works
+  if (q.includes('pre scrutiny') || q.includes('pre-scrutiny') || q.includes('prescrutiny') || q.includes('scrutiny test') || q.includes('how does') && q.includes('scrutiny') || q.includes('प्री स्क्रूटनी') || q.includes('जांच कैसे')) {
+    if (isHindi) {
+      return {
+        text: `**एआई प्री-स्क्रूटनी टेस्ट (AI Pre-Scrutiny Engine) कार्यप्रणाली:**\n\n` +
+          `यह इंजन परिषद के अनुमोदन हैंडबुक (APH 2024–27) के आधार पर 3 चरणों में स्वचालित जांच करता है:\n\n` +
+          `1. **दस्तावेज़ निष्कर्षण व ओसीआर (OCR Ingestion):** अपलोड की गई पीडीएफ फाइलों से पंजीकरण संख्या, खसरा/सर्वे नंबर, निर्मित क्षेत्र, वैधता तिथियां और फैकल्टी रोस्टर का स्वचालित निष्कर्षण।\n` +
+          `2. **बहु-स्तरीय विनियामक ऑडिट (Multi-Tier Rules):**\n` +
+          `   • **भूमि व बुनियादी ढांचा (Ch VI):** मेट्रो (1.5-2.5 एकड़), शहरी (2.5-5 एकड़), ग्रामीण (7.5 एकड़) मानकों से मिलान।\n` +
+          `   • **भवन व अग्नि सुरक्षा:** PWD अधिशासी अभियंता प्रमाण पत्र और संपूर्ण सत्र हेतु वैध फायर सेफ्टी NOC (APH विनिमय 3.4)।\n` +
+          `   • **फैकल्टी काडर व 1:20 FSR:** कुल छात्र क्षमता ÷ 20 = आवश्यक शिक्षक; 1:2:6 (प्रोफेसर : एसोसिएट : असिस्टेंट) अनुपात (परिशिष्ट 7)।\n` +
+          `   • **क्रॉस-दस्तावेज समानता (Entity Invariance):** ट्रस्ट डीड, संबद्धता आदेश एवं भूमि विलेख में संस्था का नाम व रजिस्ट्रेशन नंबर मिलान।\n` +
+          `   • **प्रोवेनेंस लैडर (Tiers 1–4):** Tier 1 (DSC डिजिटल हस्ताक्षर) से Tier 4 (फॉरेंसिक स्क्रीन) तक सत्यापन।\n` +
+          `3. **स्कोरिंग एवं समिति निष्पादन:** 0-100% रेडीनेस स्कोर की गणना। यदि कोई त्रुटि न हो तो आवेदन सीधे स्क्रूटनी समिति को अग्रसारित होता है; त्रुटि होने पर तत्काल सुधारात्मक निर्देश जारी होते हैं।`,
+        actionHint: 'View: Self-Scrutiny Engine (/institution)'
+      };
+    }
+    return {
+      text: `**AI PRE-SCRUTINY TEST ENGINE — ARCHITECTURE & EXECUTION:**\n\n` +
+        `The automated pre-scrutiny pipeline evaluates institutional submissions against the AICTE Approval Process Handbook (APH 2024–27) through 3 core phases:\n\n` +
+        `1. **High-Fidelity Document Ingestion & OCR:**\n` +
+        `   • Extracts structured entities from uploaded PDFs (Registration IDs, Khasra/Plot numbers, built-up area in sq.m, NOC expiry dates, and faculty PAN/qualifications).\n\n` +
+        `2. **Multi-Tier Regulatory Validation Matrix:**\n` +
+        `   • **Land & Infrastructure (Chapter VI):** Acreage validation against regional zoning (Metro: 1.5–2.5 ac, Urban: 2.5–5 ac, Rural: 7.5 ac).\n` +
+        `   • **Structural & Fire Safety (Clause 2.1 & Reg 3.4):** Verifies State PWD Executive Engineer stability certificate and ensures unbroken Fire Safety NOC validity across the academic year.\n` +
+        `   • **Cadre Proportion & 1:20 FSR (Appendix 7):** Enforces \`Intake ÷ 20 = Mandatory Faculty\` and normative \`1 : 2 : 6\` (Professor : Associate Professor : Assistant Professor) cadre ratio.\n` +
+        `   • **Cross-Document Entity Invariance (Clause 4.2):** Validates identical entity names and registration numbers across Trust Deeds, Affiliation Orders, and Land Records to catch digit transposition errors.\n` +
+        `   • **Provenance Ladder (Tiers 1–4):** Tier 1 (Cryptographic DSC/QR) → Tier 2 (Govt gateway DigiLocker/Revenue) → Tier 3 (AICTE archive) → Tier 4 (AI heuristic screening flag).\n\n` +
+        `3. **Automated Readiness Scoring & Committee Referral:**\n` +
+        `   • Generates a statutory compliance score (0–100%). Clean dossiers fast-track directly to Scrutiny Committee approval, while flagged items generate actionable directives for the institution before the hearing.`,
+      actionHint: 'View: Self-Scrutiny Engine (/institution)'
+    };
+  }
+
+  // I. Duplicate Application Lock Rule (APH Chapter II, Clause 2.1)
+  if (q.includes('duplicate') || q.includes('underway') || q.includes('same application') || q.includes('another eoa') || q.includes('already active') || q.includes('cant apply') || q.includes('दोबारा') || q.includes('सक्रिय आवेदन')) {
+    if (isHindi) {
+      return {
+        text: `**एकल सक्रिय आवेदन प्रतिबंध (AICTE APH अध्याय II, विनिमय 2.1):**\n\n` +
+          `• **नियम:** AICTE नियमों के अनुसार, कोई भी संस्थान एक ही विनियामक श्रेणी (जैसे EoA - Extension of Approval, नई शाखा, या सीट वृद्धि) के लिए दूसरा आवेदन तब तक दाखिल नहीं कर सकता जब तक कि पूर्व आवेदन सक्रिय अथवा विचाराधीन है।\n` +
+          `• **सिस्टम क्रियान्वयन:**\n` +
+          `   - यदि संस्थान \`/institution/submit\` पर पूर्व से सक्रिय श्रेणी (जैसे EoA) चुनता है, तो पोर्टल तत्काल लॉक हो जाता है और पीले रंग का विनियामक चेतावनी बैनर प्रदर्शित करता है।\n` +
+          `   - 'Next Step' बटन अक्षम (disabled) हो जाता है (\`Active Application Exists — Submission Locked\`)।\n` +
+          `   - संस्थान को वर्तमान सक्रिय आवेदन (जैसे \`AICTE/AB/2026-27/EOA-102938475\`) पर लंबित निर्देशों का समाधान करने अथवा समिति की सुनवाई के निस्तारण की प्रतीक्षा करने का निर्देश दिया जाता है।`,
+        actionHint: 'Manage: Active Applications (/institution)'
+      };
+    }
+    return {
+      text: `**DUPLICATE APPLICATION RESTRICTION (APH Chapter II, Clause 2.1):**\n\n` +
+        `• **Statutory Rule:** Under AICTE Approval Process Handbook regulations, an institution cannot initiate or file a duplicate application for the same regulatory category (e.g. Extension of Approval [EoA], Increase in Intake, or Course Addition) while an earlier application is underway.\n` +
+        `• **Portal Enforcement:**\n` +
+        `   - In the application workflow (/institution/submit), when a category with an active dossier (e.g., EoA) is selected, the portal instantly displays an amber statutory lock notice with the active Application ID and current review stage.\n` +
+        `   - The submission flow is locked, and the 'Next' button is disabled (\`Active Application Exists — Submission Locked\`).\n` +
+        `   - The institution must resolve all pending directives on the existing application or await committee disposal before initiating a subsequent filing.`,
+      actionHint: 'Manage: Active Applications (/institution)'
+    };
+  }
+
+  // J. General / Conversational Fallback (Tailored to query, NEVER dumping static 3-bullet list!)
   if (isHindi) {
     return {
       text: `**एआई एआईसीटीई सहायक (AICTE Sahayak):**\n\n` +

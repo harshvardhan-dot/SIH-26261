@@ -5,7 +5,7 @@ import { usePathname } from 'next/navigation';
 import {
   LayoutDashboard, FileText, Shield, Search,
   ClipboardList, History, Settings, Bell, ChevronRight,
-  BarChart3, AlertTriangle, FileCheck
+  BarChart3, AlertTriangle, FileCheck, Workflow, Lock
 } from 'lucide-react';
 
 import { useTranslation } from '@/lib/i18n';
@@ -25,6 +25,13 @@ const navSections = [
       { labelKey: 'collusionRadar', href: '/collusion', icon: AlertTriangle, badge: 'USP' },
       { labelKey: 'govtChecks', href: '/verification', icon: Search },
       { labelKey: 'rulesRequirements', href: '/compliance', icon: ClipboardList },
+    ]
+  },
+  {
+    titleKey: 'systemArchitecture',
+    items: [
+      { labelKey: 'validationEngine', href: '/architecture', icon: Workflow, badge: 'Flow' },
+      { labelKey: 'securityPrivacy', href: '/security', icon: Lock, badge: 'CERT-In' },
     ]
   },
   {
@@ -78,12 +85,12 @@ export default function Sidebar() {
                   <span>{label}</span>
                   {item.badge && (
                     <span className="nav-badge" style={{
-                      background: item.badge === 'USP' ? '#ecfdf5' : '#f1f5f9',
-                      color: item.badge === 'USP' ? '#065f46' : '#334155',
-                      border: '1px solid ' + (item.badge === 'USP' ? '#a7f3d0' : '#cbd5e1'),
-                      fontWeight: item.badge === 'USP' ? 700 : 600,
-                      fontSize: item.badge === 'USP' ? '0.65rem' : '0.72rem',
-                      letterSpacing: item.badge === 'USP' ? '0.05em' : 'normal',
+                      background: item.badge === 'USP' ? '#ecfdf5' : item.badge === 'CERT-In' ? '#eff6ff' : item.badge === 'Flow' ? '#f5f3ff' : '#f1f5f9',
+                      color: item.badge === 'USP' ? '#065f46' : item.badge === 'CERT-In' ? '#1e40af' : item.badge === 'Flow' ? '#6d28d9' : '#334155',
+                      border: '1px solid ' + (item.badge === 'USP' ? '#a7f3d0' : item.badge === 'CERT-In' ? '#bfdbfe' : item.badge === 'Flow' ? '#ddd6fe' : '#cbd5e1'),
+                      fontWeight: typeof item.badge === 'string' ? 700 : 600,
+                      fontSize: typeof item.badge === 'string' ? '0.65rem' : '0.72rem',
+                      letterSpacing: typeof item.badge === 'string' ? '0.04em' : 'normal',
                     }}>
                       {item.badge}
                     </span>

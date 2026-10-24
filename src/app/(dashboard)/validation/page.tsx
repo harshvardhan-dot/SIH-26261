@@ -67,7 +67,7 @@ const initialColleges: CollegeDossier[] = [
         issuer: 'State Fire Services Directorate (UP)',
         checkMethod: 'Checked via State Fire Portal API',
         baseStatus: 'flagged',
-        flagReason: 'Certificate expires in 18 days (validity cutoff is 30 days). The college must submit a renewal acknowledgment receipt.'
+        flagReason: 'Certificate expires on 11-Nov-2026 (18 days remaining as of 24-Oct-2026; cutoff is 30 days). The college must submit a renewal acknowledgment receipt.'
       },
       {
         id: 'doc_02',
