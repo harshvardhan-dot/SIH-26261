@@ -2,6 +2,7 @@
 
 <div align="center">
 
+
 ![Ministry of Education](https://img.shields.io/badge/Ministry%20of%20Education-Government%20of%20India-0F2942?style=for-the-badge&logo=gov.in)
 ![AICTE](https://img.shields.io/badge/AICTE-Approval%20Process%20Handbook%202026--27-FF9933?style=for-the-badge)
 ![Next.js 16](https://img.shields.io/badge/Next.js%2016-Turbopack-000000?style=for-the-badge&logo=next.js)
